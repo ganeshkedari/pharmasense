@@ -1,0 +1,7 @@
+dash
+pandas
+plotly
+transformers
+torch
+scikit-learn
+dash-bootstrap-components

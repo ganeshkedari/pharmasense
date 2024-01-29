@@ -1,0 +1,501 @@
+Date,Customer,Customer Type,Sales Type,Product,Country,State,City,Sales
+2023-06-01,f15eda8c-318c-47e2-acd1-081e9021ea7b,Mid-Level Practitioner,Retail,HealthPlus,USA,LA,Dianatown,48.036613272311214
+2022-06-01,a3aabe51-8f9d-4a0e-9bc2-550cd1086eaa,Pharmacist,Non-Retail,VitaLife,USA,UT,North Jennifer,34.121457489878544
+2023-10-01,68d42530-b90e-437d-9770-fa2c4c040ff2,Practitioner,Online,VitaLife,USA,MS,Burnsfort,238.7783251231527
+2022-09-01,6521afa8-d369-4e9f-b88f-f946536ea1c6,Mid-Level Practitioner,Online,MediCare,USA,NV,Marvinberg,130.77528089887642
+2022-12-01,8ccfa181-72ac-4afc-b9fb-83d58c21a5a2,Academic,Retail,MediCare,USA,VT,Gamblechester,237.59024390243903
+2021-12-01,ca74b2d9-742e-47ee-b049-03ea5141747d,Academic,Non-Retail,LifeCure,USA,VT,New Laurenfurt,39.85781990521327
+2021-03-01,1c61f23c-170b-4716-a239-68cc977be717,Pharmacist,Retail,VitaLife,USA,MO,West Waynetown,337.82758620689657
+2021-11-01,107b8b80-e8a5-4d7a-9636-f8820c644dca,Pharmacist,Retail,PharmaX,USA,IA,Kevinbury,56.75083056478405
+2022-06-01,842353eb-e38a-4e60-ad9d-9962c9540911,Pharmacist,Non-Retail,MediCare,USA,CO,Hillchester,652.2602739726027
+2022-06-01,a170e8d6-8c1d-47e2-a0d5-6ebbe5503aba,Hospital,Non-Retail,MediGen,USA,AK,Lake Derek,198.67469879518072
+2020-05-01,7944b9ad-0d2e-4c41-b114-ba3eb958d2ca,Pharmacist,Retail,MediGen,USA,NH,Elliottland,1442.3859649122808
+2022-10-01,1d176ff0-1b25-497e-b3d9-ee981c11af3d,Clinic,Retail,PharmaX,USA,MN,Port Caitlin,344.0
+2020-05-01,78520463-bfa9-47ee-98b7-6049eda7d65d,Clinic,Non-Retail,LifeCure,USA,SD,Chambersbury,75.79787234042553
+2020-10-01,eb7c1b24-e4cf-4bb3-9d94-11c161afbfee,Mid-Level Practitioner,Non-Retail,MediCare,USA,MT,East Robin,280.4640883977901
+2023-04-01,7ac537ee-c88d-43be-b775-e5572703abe9,Clinic,Non-Retail,BioWell,USA,NV,Port Davidview,694.3053435114504
+2023-10-01,8bd1b675-4cc0-4439-92ca-fc9b217c89fa,Mid-Level Practitioner,Retail,VitaLife,USA,HI,Jennifermouth,497.1098265895954
+2020-05-01,4233303a-f769-44f2-bdb1-58c00ae0f4b4,Hospital,Retail,HealthPlus,USA,LA,Alexandrachester,218.68229166666666
+2021-11-01,1531421e-8e0d-4fbb-bc9a-ce6a6fc0124f,Clinic,Online,LifeCure,USA,OK,New Dennisville,191.5607476635514
+2022-10-01,e2e966ca-5354-4196-9f39-6c5b57bd22e1,Clinic,Retail,VitaLife,USA,NC,Johnsfort,76.05226480836237
+2022-11-01,26e2722c-1cb2-4443-afd8-d680cdd8baec,Practitioner,Retail,WellnessRX,USA,IA,Brucefort,429.81412639405204
+2021-02-01,551f0db1-442c-49c9-8dc7-6fd4f3ab9642,Mid-Level Practitioner,Retail,BioWell,USA,ID,East Michaelburgh,498.453125
+2023-11-01,8c43fa96-d1cf-45be-8b29-219cb5ffd53b,Pharmacist,Online,HealWell,USA,ND,Robertland,112.10884353741497
+2022-06-01,7893756b-4947-4dc7-b2cc-84f55ada43df,Clinic,Online,BioWell,USA,AZ,Williamsport,31.07255520504732
+2023-12-01,3a88c6cc-13c1-4b26-b72b-fd1597f884a1,Hospital,Online,HealWell,USA,NE,Lake Jenniferview,199.74881516587678
+2023-07-01,f05d893d-fba9-4150-9b66-a64a12f9b622,Nurse,Retail,PharmaX,USA,NY,Beverlyville,411.26666666666665
+2021-02-01,ffcaf1f7-9391-45e8-b8bc-91e6c2f317ad,Practitioner,Non-Retail,PharmaCare,USA,ME,Annettemouth,2458.1176470588234
+2022-05-01,147e311d-9019-4cb3-b2d8-1b2aace7d176,Hospital,Retail,BioWell,USA,MN,East Robertaburgh,219.57704918032786
+2020-05-01,7579a939-da11-46ee-9c30-2d6e85bd2359,Practitioner,Online,HealthPlus,USA,AR,Briannaside,2125.788235294118
+2022-10-01,f37591cb-db45-4e8d-986c-4ecc9e59fc0b,Pharmacist,Online,MediGen,USA,ME,Margarethaven,326.1061946902655
+2022-04-01,a35452f7-5492-47d3-8ab4-6a86d1ee8827,Clinic,Online,MediCare,USA,AL,South Patrickbury,34.89250814332247
+2021-06-01,c2653247-196b-4006-96f6-3bf02d1324df,Nurse,Online,HealthPlus,USA,NY,Whiteside,746.1538461538462
+2020-04-01,b7f20572-7020-468e-b151-d9e5a130e771,Pharmacist,Online,MediGen,USA,VT,Andersonport,830.7446808510638
+2023-10-01,5c370de9-148c-4d95-9672-b7260e860fab,Hospital,Retail,MediGen,USA,CO,Popemouth,340.5979797979798
+2023-09-01,13bbb831-89c5-40ff-b95c-0b3a6642d252,Clinic,Retail,WellnessRX,USA,WY,Haynesmouth,92.04878048780488
+2020-02-01,efee14cd-333e-4a9e-a39f-e325f18c90d1,Nurse,Online,WellnessRX,USA,MO,Port Keith,1059.38
+2021-01-01,0ab773fb-b5e8-4f7a-ad20-a18a025029a0,Clinic,Retail,VitaLife,USA,NJ,Amyshire,666.1875
+2021-03-01,b2cdd545-14b1-45b5-8c8f-e6e4ffb3126a,Nurse,Online,VitaLife,USA,SC,East Leroyfort,43.0079575596817
+2023-08-01,19bda8f6-7f00-470c-b366-9c4334100f6f,Practitioner,Non-Retail,MediGen,USA,PA,East Matthew,85.91420911528151
+2020-06-01,a8d167da-35b8-4d39-9f62-439f0a349da3,Academic,Online,HealthPlus,USA,ID,Patriciaborough,643.3103448275862
+2022-09-01,b63e5ec6-339a-479a-b672-f5b2f31c1a2b,Mid-Level Practitioner,Retail,PharmaX,USA,DE,Weaverburgh,1097.107142857143
+2021-02-01,f1d68498-e75e-4d3a-810f-7d1a2d98f3b4,Practitioner,Online,MediCare,USA,AL,Robertfort,73.96907216494846
+2021-04-01,6e9c924e-8048-494c-b709-0b3935d21d53,Hospital,Online,VitaLife,USA,CT,Lucaston,18.6864406779661
+2023-05-01,19b18c07-f73f-4e92-9e17-ee0e4ef4e552,Hospital,Non-Retail,HealWell,USA,WI,East Andrew,1199.6407185628743
+2020-11-01,40bd1d07-4d34-48ff-b521-12d63383d89a,Academic,Retail,HealthPlus,USA,NC,South Walterburgh,126.63967611336032
+2023-04-01,f7dd61ad-c63b-489d-94fd-679555894645,Clinic,Online,VitaLife,USA,AK,Brownview,185.555900621118
+2021-02-01,54d6a4ec-c5f9-4fa2-aa84-8fb0dd87b64c,Nurse,Online,LifeCure,USA,NJ,Port Christopher,453.2926829268293
+2023-05-01,0c35a34b-8b88-44ec-a12c-a4cea8439c33,Hospital,Non-Retail,PharmaCare,USA,IN,New Taylor,260.6162790697674
+2021-12-01,37b537af-93dc-4a9f-b609-cf925f2a378b,Practitioner,Non-Retail,HealWell,USA,AZ,East Kathleen,63.5678391959799
+2021-10-01,4eada321-5b3d-4081-b7d2-90519de8106d,Academic,Retail,VitaLife,USA,NC,Brandichester,50.12771084337349
+2024-01-01,31f1a811-e5c6-46ad-ac58-cb4a9461a2a2,Clinic,Retail,LifeCure,USA,MA,Lake Charles,3678.7846153846153
+2020-09-01,a2df69bf-0de7-48f2-851c-8fea55371767,Clinic,Non-Retail,PharmaX,USA,NY,Moorechester,214.1875
+2020-12-01,d994a74b-eb18-4ebc-9074-6c9c49efdcaa,Mid-Level Practitioner,Retail,MediCare,USA,GA,Danielfort,184.8860759493671
+2023-01-01,1a083767-466e-4e83-b089-772197f78306,Nurse,Retail,MediCare,USA,GA,Connietown,134.15959595959595
+2023-10-01,708947c7-6d86-44cc-b6e7-52ec3d908b30,Nurse,Online,MediCare,USA,OH,Amandaburgh,1738.6914893617022
+2020-04-01,97ce500c-98c6-45c0-8f6c-1490c7aba4b2,Clinic,Retail,WellnessRX,USA,MI,New Tracy,385.34375
+2022-10-01,70497a31-d337-43a5-8d5c-eb1dbeaf1668,Hospital,Retail,BioWell,USA,WY,South Austin,363.39130434782606
+2020-10-01,b5f876fd-6a94-4f0f-a7d8-a5439c00c2cb,Nurse,Non-Retail,MediGen,USA,MI,Port Danielville,190.36144578313252
+2020-11-01,44f9c850-d31a-4012-851d-6f3383b89556,Mid-Level Practitioner,Online,VitaLife,USA,WI,Gabrielview,1349.618320610687
+2020-12-01,d053f919-c3c9-4eb1-b4f6-d158d93a4772,Clinic,Online,WellnessRX,USA,AK,Torresmouth,141.14457831325302
+2022-05-01,4793b139-09fc-4e17-99a4-df6d33538de5,Academic,Online,HealthPlus,USA,NJ,Port Josephmouth,239.53020134228188
+2023-11-01,72bbb5f9-c4c4-44a3-855e-3a8bc485a330,Hospital,Non-Retail,WellnessRX,USA,OR,West Willie,198.57303370786516
+2020-10-01,3ecec0d6-3f78-4dbd-ad18-54f7becb31bb,Mid-Level Practitioner,Non-Retail,HealthPlus,USA,PA,West Jason,185.5699481865285
+2023-06-01,8802970a-b610-426a-b3b3-5ea326b25e0b,Clinic,Retail,HealthPlus,USA,MI,Lake Sarahton,143.15189873417722
+2022-11-01,dc0d7c87-8a88-470e-bf25-c90a1d08c9b9,Pharmacist,Online,HealWell,USA,PA,West Kevin,84.21182266009852
+2020-02-01,24bd736c-a344-4060-8456-b69eabbc8a5b,Mid-Level Practitioner,Non-Retail,WellnessRX,USA,IL,Lake Ronnieton,746.0093023255814
+2022-11-01,fcb463fb-ade5-4fd9-aa55-b105c3149695,Mid-Level Practitioner,Non-Retail,MediGen,USA,LA,Tiffanyfurt,470.94
+2021-02-01,8320feca-4b63-4463-9b1e-63d2a70d0a35,Academic,Retail,VitaLife,USA,DE,Aaronberg,121.1012987012987
+2020-11-01,8dff192d-6814-49d3-9a57-665e44ecd61d,Pharmacist,Retail,LifeCure,USA,ND,North Sheila,183.0958904109589
+2023-07-01,0516cb73-0795-4f5a-b28d-9895137ab51a,Academic,Non-Retail,PharmaCare,USA,FL,Port Jacob,175.3074074074074
+2021-11-01,dbc9b775-fe37-4e62-a8ad-81f57d82a01c,Hospital,Non-Retail,MediCare,USA,MN,Ballardfurt,65.49019607843137
+2022-08-01,a50e7f2b-3ca7-4547-9008-9c1525ab3ce2,Nurse,Non-Retail,VitaLife,USA,CO,Browntown,124.22222222222223
+2022-04-01,5f9db7f8-a859-4dcf-a6c0-c2da81d02ac4,Clinic,Non-Retail,MediCare,USA,NV,West Samanthaburgh,159.66197183098592
+2021-06-01,a6441486-7b3a-43fd-a33d-070ba18c4be7,Mid-Level Practitioner,Retail,BioWell,USA,NH,New Stevenshire,893.922077922078
+2022-07-01,fe0dd069-dea4-4b40-8796-94097f30ad30,Nurse,Retail,WellnessRX,USA,NV,Melissamouth,381.53846153846155
+2023-10-01,0c1f6cde-4015-49c9-82ea-ddb718bca11b,Clinic,Non-Retail,BioWell,USA,SC,Morenotown,9.172661870503598
+2021-02-01,b9982105-4e38-4d18-8d7d-5513f038a561,Clinic,Online,BioWell,USA,LA,North Eric,125.81920903954803
+2023-07-01,7c6670d2-5dec-460d-9f97-2829face05fb,Nurse,Retail,LifeCure,USA,WI,Port Jayhaven,180.25
+2022-01-01,5154e7a2-04bf-49a9-99e5-3502a2af8f93,Practitioner,Retail,PharmaX,USA,WI,North Derrickport,577.488
+2022-09-01,826af8e4-b403-4dc7-92b6-115629f5faaa,Mid-Level Practitioner,Non-Retail,LifeCure,USA,MD,Lake Kelsey,25.071428571428573
+2022-11-01,59a763c7-c715-416b-96d9-b4b883a2f536,Mid-Level Practitioner,Online,HealthPlus,USA,MS,South Katherineberg,49.73285198555957
+2024-01-01,598f120a-f72c-49cf-b57b-32159cf4167a,Clinic,Non-Retail,VitaLife,USA,OR,Johnton,19.0
+2021-11-01,d07ab9eb-4e93-46b6-b53b-a2304563a7af,Nurse,Online,PharmaCare,USA,OH,West Donald,65.6601466992665
+2022-01-01,1f948490-6fc6-445d-8a20-379b0b6217cb,Nurse,Online,BioWell,USA,LA,Chadberg,415.378640776699
+2021-02-01,e39af36a-7e45-4508-9946-5b6eac8290d8,Mid-Level Practitioner,Online,LifeCure,USA,AR,West Karinaberg,862.6829268292682
+2021-07-01,103abfbb-ef56-4f04-b289-f07d901648af,Nurse,Retail,HealthPlus,USA,SD,Lake Christopher,181.9
+2023-02-01,740389f0-d6c4-4307-822e-9474747be1dd,Mid-Level Practitioner,Retail,HealthPlus,USA,NC,North Erika,305.2631578947368
+2021-01-01,c6d14875-2125-4621-a204-57505a0a3a08,Academic,Online,WellnessRX,USA,MT,Nicholasberg,126.31818181818181
+2023-12-01,4ed9c9ec-30ba-4487-aba3-69211cb5c7c1,Practitioner,Non-Retail,MediGen,USA,MO,Brianfurt,265.72909698996654
+2023-03-01,3bc05bf1-1811-4925-badb-305da94f3137,Pharmacist,Non-Retail,LifeCure,USA,IL,Judytown,1240.392857142857
+2021-05-01,f4552834-b0d0-48b9-8011-e5b5ad7cf62c,Mid-Level Practitioner,Online,VitaLife,USA,AR,Christopherport,53.05263157894737
+2022-04-01,15236c75-1943-4c33-bf3a-8a974535e99e,Mid-Level Practitioner,Retail,HealWell,USA,MS,Jacobsview,815.5748031496063
+2023-11-01,4ac94fb2-ba8b-444d-ad11-0a4324c6d94c,Nurse,Retail,BioWell,USA,NJ,New Valerieport,477.4738292011019
+2022-11-01,155efeda-ee4e-4df6-ae05-4fc14f89b79d,Hospital,Non-Retail,HealthPlus,USA,RI,New Henryside,98.32976445396146
+2020-04-01,2b6b6171-3c7c-4ea2-bf98-248bc5e51951,Mid-Level Practitioner,Non-Retail,MediCare,USA,NM,South Sandra,215.6875
+2022-06-01,4dbd54c0-ab2f-46de-9139-d3123e9de112,Clinic,Retail,MediGen,USA,TX,Meganton,175.8232558139535
+2021-06-01,3ec5dcb9-a1a1-4936-8efe-3fe5d3b3ef70,Practitioner,Non-Retail,VitaLife,USA,ME,Dustinview,113.82153846153847
+2021-07-01,2a831baf-f86a-4b0e-a57b-5073864822be,Hospital,Non-Retail,HealWell,USA,IN,Murrayport,363.4731182795699
+2023-06-01,98ab224b-ed9f-40e6-8a04-1cc1c047555d,Nurse,Non-Retail,HealWell,USA,KY,Torreshaven,131.0758620689655
+2023-05-01,1af27c6f-2634-4471-9369-c73b6c34adcc,Nurse,Non-Retail,PharmaX,USA,MA,North Dylan,317.28327645051195
+2022-09-01,98b2d7d8-175b-40f5-b720-407cd746392c,Nurse,Non-Retail,BioWell,USA,WA,Lake Jeffrey,215.95092024539878
+2021-11-01,a6fc9315-832d-4b83-863e-b509cbc9f2e9,Nurse,Non-Retail,HealWell,USA,MT,West Kristenside,123.6745406824147
+2023-02-01,fe692b91-4872-45b9-b4ac-5b26296ac877,Practitioner,Retail,VitaLife,USA,AZ,Rodriguezstad,674.4631578947368
+2021-08-01,134e15ff-fce2-42ec-8769-294765f61ce8,Hospital,Online,LifeCure,USA,KY,Harrisonside,134.07792207792207
+2021-02-01,e7967fe2-9046-4ef2-8684-af5ad4c563a7,Clinic,Online,MediCare,USA,ND,Michaelchester,754.8992805755396
+2023-11-01,27d5179d-8831-487a-acae-d55a0176ba5d,Academic,Online,PharmaX,USA,PA,Port Dawnborough,484.9079754601227
+2023-09-01,01ad2faa-1a47-41de-b2a2-d03dbfb1ce5c,Mid-Level Practitioner,Non-Retail,BioWell,USA,FL,Gregoryside,391.4730021598272
+2022-12-01,6e6aaa97-a8c6-470d-9b5c-8e78e90a63b6,Mid-Level Practitioner,Non-Retail,HealthPlus,USA,OK,Tracystad,46.04938271604938
+2020-06-01,63c2363f-d527-4491-bef3-e7ff60b70f33,Pharmacist,Retail,HealWell,USA,RI,Davidstad,78.79113924050633
+2021-02-01,c7c0c645-b9af-4741-949e-6ce32a252067,Nurse,Retail,WellnessRX,USA,MO,Jacobsonland,157.7
+2023-04-01,71f7c460-8179-4074-80cb-3c3f9016e5fe,Clinic,Retail,MediGen,USA,NH,Markfort,329.9154929577465
+2020-09-01,3a64547b-686a-47b3-803c-fee5a0659259,Mid-Level Practitioner,Non-Retail,PharmaX,USA,HI,New Stephanie,200.8780487804878
+2020-05-01,73375dfe-875f-4ae1-aa76-5f6d3401d446,Pharmacist,Non-Retail,WellnessRX,USA,WI,Foxtown,405.3333333333333
+2021-05-01,739f37e5-1928-4783-9b2c-013e5f906c71,Practitioner,Retail,HealWell,USA,NE,New Daniel,940.0
+2020-03-01,7242bfc7-d3a5-4b4b-85df-d0401ffcc36c,Nurse,Non-Retail,PharmaX,USA,FL,Port Janet,230.18571428571428
+2023-03-01,0c41862e-c044-4f1f-882e-17ceb93da42d,Hospital,Non-Retail,HealthPlus,USA,OK,Alexismouth,208.49557522123894
+2023-08-01,605f2549-4b1e-4f75-9f19-2ae947ba3685,Clinic,Retail,HealthPlus,USA,OR,Jamesmouth,409.60535117056855
+2023-05-01,fd98b497-fd1c-435f-917d-5ee4a71eb7dc,Pharmacist,Retail,PharmaCare,USA,SD,Arthurport,52.40963855421687
+2020-11-01,e7457c76-2ed6-454b-8448-5f1dabe5b620,Clinic,Non-Retail,LifeCure,USA,CT,Lake Sarahton,736.28
+2023-09-01,17924705-5cc4-4478-80a1-aaa5721531a8,Hospital,Online,WellnessRX,USA,OK,East Jacobport,359.421686746988
+2020-06-01,c25c3b31-2110-49e8-839f-a51581b460e5,Hospital,Retail,VitaLife,USA,NM,East Sheilafort,188.19148936170214
+2022-08-01,7141345d-0c2e-44ac-9a79-7f1f795cf8f1,Practitioner,Non-Retail,LifeCure,USA,IL,Jorgehaven,1122.7631578947369
+2020-06-01,f24b70eb-9a50-49ff-a791-3766cd6de01b,Clinic,Non-Retail,PharmaCare,USA,AL,East Jaime,510.4026845637584
+2020-07-01,26ec3dec-2ff5-401c-96a0-071141310408,Practitioner,Retail,HealthPlus,USA,NJ,West Christopher,777.4647887323944
+2021-01-01,0fd948d2-560a-44a7-8ccf-4e45058b3966,Hospital,Non-Retail,HealthPlus,USA,MA,New Mary,131.76470588235293
+2023-12-01,ac5f7e4e-af39-4350-9f46-8d2c495475d5,Pharmacist,Retail,LifeCure,USA,KS,Stevenbury,150.5818181818182
+2020-06-01,be887831-b57e-4f7d-9273-6e2d38889cd4,Clinic,Retail,HealthPlus,USA,AL,New Carolstad,43.833333333333336
+2020-04-01,41273bb5-22d5-4bac-845f-3ab95c3ea16b,Mid-Level Practitioner,Non-Retail,MediGen,USA,IN,Michaelville,951.1210191082803
+2023-07-01,ce4dcb0f-e8a4-4587-b8b6-4e95e64653f8,Clinic,Non-Retail,BioWell,USA,UT,Alexandertown,53.030425963488845
+2024-01-01,a3174830-35ea-41df-a3a0-63ff1b8831bb,Academic,Online,BioWell,USA,IA,Port Justinfort,127.03505154639176
+2020-09-01,f30136a8-3101-414a-a8e7-8f5f7e03710c,Academic,Non-Retail,HealWell,USA,MI,Blanchardberg,48.063380281690144
+2020-03-01,131a05d1-afb0-4d5c-9164-34ca632d244a,Mid-Level Practitioner,Online,VitaLife,USA,KS,West Marvin,151.9685393258427
+2022-03-01,67881ed6-5328-4899-8f84-0cae81a6ce69,Nurse,Online,PharmaCare,USA,ME,West Rita,274.7345971563981
+2020-03-01,e9abf250-5dd3-4945-a7a3-bc6461466e58,Practitioner,Non-Retail,MediGen,USA,SC,New Courtney,229.6
+2021-02-01,ee90bdc3-a5d7-4ed6-adaf-6ba47d3551de,Hospital,Non-Retail,PharmaCare,USA,IL,Paulmouth,55.56164383561644
+2021-02-01,d51ee6de-bcaa-45a7-ac72-6182a0c48b01,Academic,Online,PharmaX,USA,ME,Scottport,132.11065573770492
+2022-09-01,59848dcb-9bcb-49ca-b8a2-a639b6f4c0fa,Academic,Retail,PharmaCare,USA,CA,Hamiltonberg,29.859484777517565
+2022-05-01,aefa3b90-9375-4be9-b9d5-702166dacfaf,Mid-Level Practitioner,Online,MediGen,USA,AL,Gomezfurt,515.8862559241707
+2020-02-01,c2a083bb-bc9d-4c2d-b546-9d234b8ca83c,Pharmacist,Non-Retail,MediGen,USA,WV,Dalestad,136.52307692307693
+2020-09-01,f855bacd-0fec-4c13-bbac-072580cc3873,Nurse,Non-Retail,MediCare,USA,GA,Riveramouth,120.07977207977208
+2020-07-01,e55618e3-ab6c-485c-a69a-4ed4f164a9bc,Nurse,Non-Retail,WellnessRX,USA,WA,Lake Alexanderfurt,62.88219178082192
+2022-10-01,763a9319-11b6-43eb-8456-9242a2845beb,Pharmacist,Retail,HealWell,USA,MT,North Meganfort,14.175895765472312
+2020-11-01,5ee46366-ffa6-41d8-9081-8c44aac31e31,Nurse,Non-Retail,HealWell,USA,NH,Sotoberg,94.56521739130434
+2021-10-01,2eb4d565-6302-402e-b8db-d5a6bddb2ff5,Academic,Online,VitaLife,USA,NV,Matamouth,731.3981481481482
+2023-06-01,c515a41e-bf86-46bd-8897-117cf35e0a54,Mid-Level Practitioner,Non-Retail,BioWell,USA,GA,South Jessicaton,116.15254237288136
+2023-05-01,c8c68dd5-a7db-48cc-a6c2-1c0cef7e30c8,Clinic,Online,MediGen,USA,UT,East Jennifer,1250.7596899224807
+2021-12-01,5d5f190a-7c27-4282-b43e-b1cb9be8a81a,Pharmacist,Online,MediGen,USA,NC,South Bridgetville,81.46460176991151
+2023-01-01,2c03a07a-11d7-4377-a29e-cd250708e672,Hospital,Retail,PharmaCare,USA,AR,Waltermouth,138.45147679324896
+2020-12-01,0360ffeb-baeb-46c1-904a-8e903a26795d,Nurse,Retail,MediGen,USA,MA,Lake Reginaville,168.0
+2022-09-01,9fa7603e-67b6-4962-a97d-80f36ff1cc96,Hospital,Online,MediCare,USA,NE,Richardville,50.25964010282777
+2023-11-01,cc186ce8-b40d-4be8-9a71-94b9ce0a0c2e,Academic,Non-Retail,VitaLife,USA,NY,Jeremyport,391.82389937106916
+2023-08-01,641b7f7a-5612-48af-b0fb-e9eb7f04d528,Practitioner,Online,MediGen,USA,FL,Lopezfort,193.81159420289856
+2022-03-01,cb7d4238-1af2-4228-a895-a63b35776ed7,Nurse,Online,PharmaX,USA,NJ,Wangfort,296.5247524752475
+2020-05-01,6c699b52-3dc3-4d9c-a6cf-b93af1b7e3c3,Pharmacist,Retail,BioWell,USA,MO,Joshualand,415.37106918238993
+2021-09-01,6a60b38c-47cf-4908-b83f-f67c70691015,Nurse,Retail,PharmaX,USA,WY,Port Tony,718.7441860465116
+2021-12-01,2e9bc0df-6ab2-49e5-90ce-996afe8d6444,Clinic,Online,WellnessRX,USA,NH,New Jose,197.44736842105263
+2020-03-01,7df95468-3843-469a-b86c-d9694c28551c,Mid-Level Practitioner,Online,PharmaCare,USA,ID,Tammyland,85.61674008810573
+2021-05-01,167df4cd-a5cf-467b-8974-822552e9e164,Nurse,Online,WellnessRX,USA,VT,West Michealview,364.90443686006824
+2021-11-01,4e74e4fd-14e3-4a5e-bc8a-f77b559f945d,Academic,Non-Retail,MediGen,USA,WI,Gregorymouth,290.8888888888889
+2020-09-01,705e567a-f080-4e9e-b3e2-cf8c3e3bd49b,Pharmacist,Retail,MediGen,USA,MN,Hernandezmouth,720.5625
+2020-06-01,4a2402b9-0e21-410d-b438-e492c469701f,Academic,Online,VitaLife,USA,OR,South Ronald,430.94117647058823
+2021-03-01,1acc7f81-6fef-4c1b-a52b-a49147ce96e4,Hospital,Retail,PharmaX,USA,WV,Branchside,659.8880597014926
+2023-04-01,b3a63306-9c5c-4141-88ba-15f1a6452c29,Academic,Non-Retail,HealWell,USA,NC,East Aprilmouth,118.51162790697674
+2022-01-01,5eca9bcc-d2a8-409a-abe6-f3d0019c0af0,Nurse,Retail,MediGen,USA,NM,North April,589.7877697841726
+2023-03-01,1113c969-b5b7-432a-9c59-def23ddf4d32,Mid-Level Practitioner,Online,HealWell,USA,ND,Port Vanessaville,290.46875
+2023-01-01,bd894ff1-27aa-44de-a88b-0243f33bdfa2,Practitioner,Non-Retail,BioWell,USA,FL,New Jenniferfort,182.41603053435114
+2021-08-01,fef44cb0-b501-4a50-8205-4958dcc85137,Pharmacist,Online,HealthPlus,USA,IA,Stewartstad,779.6119402985074
+2023-12-01,d2b9d785-f99b-402b-a861-d159ee76e082,Hospital,Non-Retail,WellnessRX,USA,MO,East Aaron,155.96273291925465
+2020-03-01,efa57032-5af6-40b7-8466-2f326c0ac582,Mid-Level Practitioner,Retail,LifeCure,USA,MT,Leonardmouth,870.5084745762712
+2022-01-01,beee9e43-d11f-426c-b18b-a60f8193f168,Academic,Non-Retail,HealthPlus,USA,MI,Douglashaven,140.27093596059115
+2023-01-01,bbd9a8e8-e904-43ed-9a0d-62dc881753ce,Practitioner,Online,MediGen,USA,NV,Alanport,215.0
+2023-07-01,c42373b4-68a5-41c5-8a9d-b717d6055ea8,Pharmacist,Retail,BioWell,USA,ND,Robbinsfort,1477.7542372881355
+2023-07-01,ee4cf8b9-b1f8-437a-b64d-394048518423,Clinic,Online,MediCare,USA,NM,Evansfurt,401.69651741293535
+2022-08-01,67aba0c7-7910-4634-94ce-6326fd305712,Pharmacist,Online,HealWell,USA,NM,North Justinshire,505.27777777777777
+2020-02-01,8f583639-3bab-4082-9014-0ae589444567,Hospital,Online,HealthPlus,USA,OR,North Rachelview,915.2647058823529
+2023-05-01,b203ab63-ab81-4187-a4b2-c999eb187d18,Nurse,Online,WellnessRX,USA,ND,West Yvonne,127.13513513513513
+2023-05-01,913541a8-52e8-4b04-a1ff-4191a4184ec4,Nurse,Retail,MediGen,USA,ID,West Christopherstad,222.578125
+2021-08-01,50d7e116-9aa1-4a57-a836-6cdae279b955,Pharmacist,Non-Retail,BioWell,USA,PA,East Adrian,66.06766917293233
+2023-07-01,ce432e8f-efe0-4f38-852b-02826d3d41de,Mid-Level Practitioner,Non-Retail,MediCare,USA,UT,Lake Ritachester,444.5
+2021-05-01,27884c00-bfe3-4283-8c9a-05c831f86206,Nurse,Retail,LifeCure,USA,CO,Anthonyshire,104.448
+2023-01-01,373e4c80-a2a5-4eba-a3ac-d0f7794a1a7b,Academic,Retail,PharmaX,USA,MS,Lake Deborah,852.9679144385027
+2022-06-01,38cb9761-50bd-4da0-98ed-b64ea859739e,Academic,Retail,WellnessRX,USA,MN,Bryanshire,37.491048593350385
+2022-03-01,99aba332-5ad3-46bf-9b36-f96bcd16d2d9,Mid-Level Practitioner,Retail,BioWell,USA,WA,South Craigtown,95.5989010989011
+2022-06-01,d67c74cc-b55c-4052-861d-2c623e58f568,Hospital,Non-Retail,PharmaCare,USA,NE,Angelastad,680.0
+2023-05-01,6fd96977-91e2-45e7-9577-0510eb7a9a79,Nurse,Retail,WellnessRX,USA,NH,Payneshire,205.1608832807571
+2021-03-01,1c5413ba-66ed-4b99-8c23-5408e34ae65c,Practitioner,Non-Retail,HealthPlus,USA,NV,Port Michaelton,522.0338983050848
+2023-10-01,599d9fd2-1f02-407c-a1c8-230861d899a8,Pharmacist,Online,HealWell,USA,MS,Stevenport,107.25
+2022-09-01,34e28405-bc0e-4989-94d6-c5b2f0102574,Clinic,Non-Retail,MediGen,USA,MI,Lake Amy,200.7403314917127
+2020-08-01,2b15bf9e-72c4-4bba-bc89-3cac1e766d9f,Clinic,Online,MediGen,USA,LA,Reynoldstown,1304.7571428571428
+2023-02-01,f7aaf748-1897-4508-83cf-a4cadb0c38c5,Nurse,Online,PharmaX,USA,NJ,Sophiaview,204.0
+2023-12-01,3588787c-d6a8-4cb1-89b1-c9e8a58bb643,Clinic,Retail,PharmaCare,USA,NH,Port Marcus,74.90293453724605
+2020-08-01,d862d99c-79ed-48bb-87af-f21ba9212bb2,Pharmacist,Online,MediGen,USA,OR,Lake Robertshire,424.7524752475247
+2021-11-01,644c03b6-39a4-48d1-bac9-1560f5c23a76,Nurse,Non-Retail,HealthPlus,USA,DE,Jamestown,93.86004514672686
+2022-07-01,ec3ed38a-bfdf-48cd-b764-12dfe0ca2692,Academic,Non-Retail,PharmaX,USA,WY,East Laurenport,568.1454545454545
+2020-10-01,4dd33ebf-c516-4eb7-a855-7045eddfbe11,Hospital,Online,HealWell,USA,LA,New Patrick,290.3392857142857
+2021-06-01,5f3f66b2-2eed-4d4b-bc5d-cd68dcd56cac,Practitioner,Online,HealWell,USA,GA,Sanchezland,264.4041450777202
+2022-01-01,361abc10-3471-426b-ae43-1cf76633b2b1,Hospital,Online,WellnessRX,USA,IN,West Angela,102.97590361445783
+2021-02-01,e0129f64-95aa-4ad3-992f-6c64bbedd30f,Clinic,Retail,LifeCure,USA,TX,South William,163.45454545454547
+2021-07-01,a286a544-7cd6-498e-9227-dc972c06f125,Hospital,Online,HealWell,USA,UT,Higginsshire,2255.0
+2021-03-01,6c9f41b4-245d-457d-a2d4-d419430b7d83,Nurse,Retail,WellnessRX,USA,AR,North Anthonymouth,183.07418397626114
+2022-05-01,46f5f378-9a7d-480c-9f45-d08a2734131c,Hospital,Non-Retail,HealWell,USA,NH,Ericksonton,145.43127962085308
+2023-01-01,dd4c25d6-92e2-43e5-bf18-65799326a15b,Academic,Non-Retail,VitaLife,USA,GA,Freemanberg,311.715859030837
+2020-03-01,11c84939-bc50-4773-9814-4d65daa7cc87,Nurse,Non-Retail,MediGen,USA,IL,Thomaston,1080.5853658536585
+2024-01-01,b3b7e16f-b12d-4942-a83c-d11e622c5be4,Practitioner,Retail,MediGen,USA,ND,Lake Shawnborough,862.3474178403756
+2023-02-01,49fd593e-d756-4cec-b5b2-353eab25fba8,Mid-Level Practitioner,Non-Retail,MediCare,USA,NC,Mosesfurt,182.77570093457945
+2021-11-01,bdda136f-ae39-4193-bc95-621348b3a1b4,Pharmacist,Online,BioWell,USA,NM,Port Debra,401.5014005602241
+2023-10-01,cc797790-14d6-4193-8744-efeab664abf9,Nurse,Online,LifeCure,USA,UT,Port Dennisshire,403.4703947368421
+2020-07-01,fcb613e7-bbe6-4fc2-8096-64a072d84ee7,Academic,Retail,WellnessRX,USA,LA,East Amymouth,242.075
+2023-08-01,5ed7b505-f60f-43ef-987a-c6003259927a,Academic,Online,HealthPlus,USA,NC,Julieberg,180.79446640316206
+2023-01-01,791aabcc-3975-49f4-b1aa-da55ca45fb7e,Academic,Retail,PharmaCare,USA,PA,Doughertyton,843.75
+2023-06-01,24058e10-0ea3-48e6-8389-42986e48a2ea,Practitioner,Non-Retail,WellnessRX,USA,OK,North Patriciafort,80.3072033898305
+2021-11-01,58618160-2963-452f-9ac8-9924d969cea2,Nurse,Online,VitaLife,USA,MT,Rhondamouth,259.5
+2021-06-01,2a398b69-4f8b-4a30-9798-fbda6612d063,Mid-Level Practitioner,Online,HealWell,USA,OR,Jamesfort,353.8512396694215
+2022-05-01,c1499ee4-0d7d-471e-9eb6-8096866bbb2c,Nurse,Online,PharmaCare,USA,ID,Joseshire,341.0472103004292
+2021-10-01,117944bb-284a-4abe-a0d7-8a939e823b58,Mid-Level Practitioner,Online,HealthPlus,USA,NV,North Dustinton,296.2894736842105
+2021-12-01,e03cc7dc-0794-481a-9e6a-bc0f1d9f9510,Hospital,Online,VitaLife,USA,NC,Thomasbury,139.73788546255506
+2022-08-01,1faa1f42-f27e-41f2-ab9f-56a08ecb3e30,Pharmacist,Non-Retail,MediCare,USA,NJ,Lonnieburgh,1659.5140186915887
+2020-07-01,8e4a2f63-470a-4b5a-8506-df53559e29c5,Mid-Level Practitioner,Retail,VitaLife,USA,OH,South Debbiestad,182.27941176470588
+2023-12-01,d8f78513-c1a8-47cf-969a-1abda268b3e0,Pharmacist,Online,MediCare,USA,RI,Port Angelchester,321.2425373134328
+2021-04-01,b75f79e2-1d7a-4d88-bfd7-4e3f6ecae926,Mid-Level Practitioner,Retail,BioWell,USA,WY,East Francis,127.79439252336448
+2022-01-01,bc6559c9-894c-4be7-bf8e-4c0e65ffd3e3,Nurse,Retail,LifeCure,USA,OK,Hannahtown,299.0316742081448
+2022-04-01,3115573e-0d7c-4c91-8965-f5739ae7cc9f,Practitioner,Retail,MediCare,USA,AR,Jeffreyton,1000.4166666666666
+2020-03-01,ded07627-dfb7-4691-8bc4-e7dc03acea7f,Pharmacist,Non-Retail,PharmaX,USA,MS,West Jenniferfort,234.97641509433961
+2021-03-01,dae8858f-b873-4ae3-9680-de9271430a67,Hospital,Online,HealWell,USA,SD,West John,775.2
+2020-04-01,a847cd3b-0ed7-4386-9864-ada55d6808f0,Nurse,Retail,PharmaX,USA,MT,Lake Erin,1153.7297297297298
+2022-12-01,4497a57e-37f7-4ae2-8d26-17abca87694b,Mid-Level Practitioner,Online,MediCare,USA,CT,Lake Harry,20.147420147420146
+2020-03-01,7343e19b-c145-4c61-96cf-bcf99c891885,Nurse,Online,HealWell,USA,AR,Lawrenceland,217.29919137466308
+2022-03-01,598e5d6f-1697-4533-b5d7-184f1b326507,Clinic,Retail,PharmaCare,USA,HI,Taylorborough,268.125
+2023-09-01,1f0bc4da-6cdd-490e-9ec8-8bda54cffc20,Clinic,Retail,PharmaX,USA,CA,Ginachester,2142.673469387755
+2022-12-01,55c4c148-f14d-42f4-8499-0e37e65da6a5,Hospital,Retail,HealWell,USA,MD,West Henry,881.1473684210526
+2022-11-01,0ba527c9-c001-449a-91c0-691ef16aa575,Mid-Level Practitioner,Retail,MediGen,USA,IA,East Gloriaberg,327.7647058823529
+2023-08-01,d7006753-9889-46e8-960b-a02189a78aa5,Mid-Level Practitioner,Non-Retail,HealWell,USA,VT,Jennifertown,360.63492063492066
+2021-05-01,c327d500-0ec1-4c4f-abfd-bcc6691a3dba,Academic,Non-Retail,LifeCure,USA,DE,Onealmouth,333.0449826989619
+2021-06-01,5d1570d9-629b-4ab2-9c64-84a52196f5c3,Mid-Level Practitioner,Non-Retail,PharmaX,USA,MS,West Stephenmouth,243.35195530726256
+2021-06-01,315d5379-4b91-45d1-9828-6d32796c77b4,Nurse,Non-Retail,MediGen,USA,ND,Drewmouth,64.8741418764302
+2023-10-01,a523e978-767a-4337-b7f9-78f040de1648,Pharmacist,Online,MediGen,USA,RI,Torresmouth,1408.4583333333333
+2021-10-01,212f7911-a023-486a-a77f-f3f85dd2d60c,Mid-Level Practitioner,Retail,MediCare,USA,OK,Lake Davidfurt,169.28571428571428
+2020-01-01,bdf58ce5-b6cb-4b1c-839e-27ea642571e3,Nurse,Online,PharmaX,USA,AZ,New Amanda,32.39013452914798
+2020-07-01,bd35fba9-4169-461f-83ea-233f08296f2c,Pharmacist,Non-Retail,MediGen,USA,RI,Luisside,459.59424083769636
+2020-02-01,0a77f0fd-db85-47ca-873e-06cf273104e9,Academic,Non-Retail,HealthPlus,USA,TN,Kimberlyville,157.13350785340313
+2021-06-01,360aaee1-229a-481c-bacc-1f60a31d0332,Mid-Level Practitioner,Retail,MediCare,USA,NM,North Jonathantown,42.9685534591195
+2022-12-01,d6f52b10-ca61-4e6c-a584-0f90dab33c59,Practitioner,Online,MediGen,USA,MO,Lake Lisa,748.5960591133005
+2023-12-01,3574bbaa-3246-4184-b718-abc4520c54a2,Pharmacist,Online,PharmaX,USA,SD,North Valerie,1108.5185185185185
+2020-10-01,bd76a8ff-7e30-4407-a5ee-ff6d9fce28db,Pharmacist,Non-Retail,MediCare,USA,FL,North Davidview,420.8916083916084
+2023-10-01,bea881a1-0ff7-4411-a6af-0a9554970108,Academic,Retail,WellnessRX,USA,MA,Paigeberg,518.9798657718121
+2021-12-01,d0130a97-1029-440a-814e-dc17f1d528f8,Nurse,Retail,MediCare,USA,NH,Jorgeburgh,93.5670731707317
+2022-02-01,7a093d6e-9a0e-4cf2-8b90-547815740c41,Hospital,Online,WellnessRX,USA,TN,Brandonbury,209.31428571428572
+2023-02-01,4570d290-c766-4468-a9b8-bf5f236df3ad,Practitioner,Online,HealWell,USA,VT,Lindafort,108.33333333333333
+2023-10-01,95816c2f-7fdb-40e0-82d3-3a7686243132,Pharmacist,Retail,WellnessRX,USA,UT,Michaelberg,1316.15625
+2021-03-01,252181c0-67c2-4718-964c-edfc19388523,Nurse,Retail,WellnessRX,USA,TX,Port Tylerhaven,182.0
+2022-01-01,a3962a17-63a9-4eba-8380-f48aba4f2a12,Mid-Level Practitioner,Retail,BioWell,USA,PA,Andersonside,33.32
+2023-07-01,065ea453-529a-4aca-82e5-f78074a1a1c9,Academic,Online,PharmaX,USA,MO,Josephborough,60.8
+2022-09-01,d5733903-e691-454d-9108-f90527e16549,Pharmacist,Retail,MediGen,USA,WV,West Amandamouth,555.256
+2021-06-01,e4802966-c7ae-46c4-8604-61cd6e7f5ed4,Practitioner,Online,LifeCure,USA,VA,Michaelfort,490.7368421052632
+2020-05-01,6e2a6066-c147-49c6-98c9-33f6c11cc52c,Pharmacist,Online,BioWell,USA,ND,West Heidi,33.82198952879581
+2020-04-01,1a024dd9-c9c0-4f9a-a3f4-5c63cf5d9237,Academic,Retail,LifeCure,USA,NV,Edwardhaven,135.52815013404825
+2023-08-01,7a207f47-600e-46ec-905c-5d8cf75346d5,Practitioner,Non-Retail,BioWell,USA,OK,Briannafurt,111.65919282511211
+2023-06-01,14d2ba33-05c2-41ab-9baf-5ab301fa7297,Mid-Level Practitioner,Online,VitaLife,USA,OH,Wrightland,578.8915662650602
+2021-07-01,a877d012-8d0d-4644-aab0-5d8ecf30bf4e,Academic,Online,LifeCure,USA,IA,West Kerri,432.3157894736842
+2022-07-01,d568f518-e8cf-4879-bfa2-b814afabe284,Pharmacist,Retail,MediGen,USA,VA,East Tylerton,468.42424242424244
+2020-04-01,587372a6-d4b1-424b-b631-f24fe844f858,Practitioner,Retail,PharmaX,USA,AR,Delacruzmouth,250.17577197149643
+2023-02-01,bc8377db-602f-4ed1-8be3-8e4f3b0ee7af,Nurse,Online,HealthPlus,USA,ID,Marktown,497.7956989247312
+2020-05-01,e9fd41f2-77ed-40e1-810a-5a4581dede94,Hospital,Retail,BioWell,USA,OH,Ianview,1123.3009708737864
+2021-11-01,a31d771b-d1d7-4e71-9f3a-f936fd7cf926,Mid-Level Practitioner,Retail,HealWell,USA,VT,West Jacqueline,774.3700787401575
+2022-02-01,fd83c3a7-81f0-4b22-ae86-e7ac10d9434f,Pharmacist,Online,HealthPlus,USA,IL,East Ricardochester,934.4117647058823
+2023-02-01,6a336744-6a19-413e-a438-0fe4cf18534a,Practitioner,Retail,MediCare,USA,UT,Collinsport,188.97076023391813
+2020-05-01,047ce4bd-9a9a-4afb-a116-887588eb738d,Clinic,Non-Retail,PharmaX,USA,DE,Jamesport,250.58823529411765
+2021-12-01,07834d6a-21e6-4033-b532-62b590ac127d,Mid-Level Practitioner,Online,MediGen,USA,AL,Fisherside,238.19875776397515
+2022-10-01,a43fe008-177d-4e96-bfdc-3b39014b10d6,Practitioner,Online,BioWell,USA,CA,Tabithastad,299.5565476190476
+2021-12-01,66fbf60a-0f3e-42b9-9929-ef4936fb9e4c,Academic,Retail,VitaLife,USA,WA,Scottview,156.62763466042153
+2022-12-01,ea246507-4d4f-4a17-bbda-c42e32eb3ece,Practitioner,Retail,BioWell,USA,TN,North Whitneyfurt,274.8732394366197
+2020-07-01,ce283035-f017-4de8-b030-200476692d14,Nurse,Online,VitaLife,USA,CO,Christophermouth,642.9958158995815
+2022-12-01,1729b11f-1977-4949-af65-214cc0e48577,Nurse,Retail,HealWell,USA,VT,Stacyberg,1367.0887096774193
+2021-08-01,ebb471fb-d4e6-41fe-a84c-7b4af3e2bf6f,Clinic,Non-Retail,MediCare,USA,MA,East Danielstad,2842.0363636363636
+2020-08-01,cf2ce63d-9844-4781-a80b-007cf2b582ce,Pharmacist,Non-Retail,PharmaCare,USA,NJ,East Jamie,647.0569105691056
+2022-12-01,1afa4080-26cf-48cd-86dc-0b6d359b099f,Nurse,Non-Retail,MediGen,USA,NV,Greenstad,908.3255813953489
+2020-02-01,79b582a7-9173-43cc-9a5f-c9cce82bb845,Pharmacist,Retail,HealthPlus,USA,MO,West Teresaton,1729.611111111111
+2023-12-01,5728c8f9-e3c7-4c39-bd83-84b8e968fabe,Pharmacist,Retail,PharmaX,USA,TN,North Karenmouth,534.7692307692307
+2023-01-01,56ab4e6c-7ecd-4dbe-95e3-5af654f91e37,Mid-Level Practitioner,Retail,LifeCure,USA,AR,Vincentport,72.62247838616715
+2020-08-01,c6c389a6-a5a6-432c-a86b-8022abb60dad,Mid-Level Practitioner,Retail,MediCare,USA,NV,East Brian,655.5363321799308
+2022-11-01,71440e84-6e3d-4888-9a4b-ca6d0b91fd52,Academic,Non-Retail,BioWell,USA,NH,Fordburgh,1418.1044776119404
+2020-09-01,7d5c4d79-d968-4726-a68f-2276c94c5de0,Clinic,Retail,PharmaCare,USA,ID,Bennettchester,104.46777546777547
+2020-02-01,7af60fe8-65a8-4d34-bdcc-1e460643c8d7,Academic,Online,MediCare,USA,SC,Jeremiahfurt,662.4340175953079
+2022-06-01,be384bb4-2cd2-4ffd-8ea7-715db3337b9e,Nurse,Retail,VitaLife,USA,MD,Lake Christopher,704.8947368421053
+2023-05-01,2fed9c5b-ae74-4d93-9f6f-43e769a06ad1,Pharmacist,Non-Retail,PharmaCare,USA,ND,East Katelyn,259.84815618221256
+2023-09-01,d12ab501-6014-4fde-b1b3-74fe45ea240a,Mid-Level Practitioner,Non-Retail,HealWell,USA,NE,Ronaldshire,275.26506024096386
+2020-04-01,cd07096e-85e9-4cc1-88c0-31ea5af5912a,Practitioner,Online,BioWell,USA,KY,East Robertstad,271.16336633663366
+2021-07-01,e90db0fb-b7ae-4c3d-bdff-177b12ce8b64,Practitioner,Non-Retail,WellnessRX,USA,AR,Lisashire,297.6
+2023-04-01,9316de22-0af0-4018-8947-cc1e9aaa79ea,Academic,Retail,MediCare,USA,WY,Port Ryanberg,475.7129186602871
+2023-06-01,89b13ff0-dccb-4b01-a4ce-a44f1506f89c,Clinic,Retail,HealthPlus,USA,MT,Sheltonland,333.38461538461536
+2021-12-01,bb573839-03f6-42ef-8e2f-ee2d19c5868a,Hospital,Non-Retail,HealthPlus,USA,WA,South Tracyborough,411.9259259259259
+2022-09-01,e57850a9-3449-4d5f-abb5-551feacf3b3a,Mid-Level Practitioner,Online,LifeCure,USA,MT,Gravesberg,116.72888888888889
+2021-01-01,87da8c87-a411-43f6-935d-973004b4f3c3,Hospital,Online,HealWell,USA,CT,West Ashleyborough,16.977272727272727
+2023-04-01,157da274-2eab-4fde-a794-e57fdb5ac80c,Clinic,Online,HealWell,USA,DE,Ellisfurt,163.89915966386553
+2024-01-01,9a321793-87ae-4a65-b188-5438fa0d9ac5,Academic,Online,PharmaCare,USA,OH,Rachelside,357.73
+2022-08-01,160de503-d2d8-48fb-9232-1b662ca1b207,Clinic,Non-Retail,HealthPlus,USA,AR,Aprilport,133.68421052631578
+2021-06-01,adae12d0-24b1-4541-8a85-d50680fab969,Academic,Retail,LifeCure,USA,TX,Lake Ashleyberg,870.625
+2020-09-01,d790f8a1-4129-49c6-937a-86492511662f,Nurse,Online,MediGen,USA,AZ,East Johnbury,1238.2388059701493
+2021-01-01,ed166b1f-ec3b-4289-9606-f02d95557f38,Pharmacist,Online,VitaLife,USA,NV,Port Gabrielstad,530.5405405405405
+2023-11-01,c027f525-9ed0-407f-a0f8-9dbe42651383,Pharmacist,Online,PharmaX,USA,TN,Tylerview,272.1333333333333
+2020-12-01,c74b066a-29c6-4df8-9db0-ef661210ab38,Academic,Retail,WellnessRX,USA,AL,Porterside,169.36720554272517
+2021-07-01,ac51c0cb-c456-4500-8ecd-a6ceea4c0b99,Hospital,Non-Retail,HealWell,USA,NH,Nicolemouth,537.075
+2021-01-01,baf82fa0-fd7e-4cbb-99b0-9ba8710a5c37,Clinic,Non-Retail,MediCare,USA,LA,Patriciamouth,640.695652173913
+2023-02-01,30d7762a-4991-432e-b166-404e8478f8db,Mid-Level Practitioner,Retail,LifeCure,USA,FL,Port Rebecca,90.73697270471465
+2023-03-01,49f73488-933c-408f-a83e-c593d06d1952,Nurse,Non-Retail,HealthPlus,USA,AZ,Perezview,173.0
+2020-09-01,92bab3a8-ea5f-4286-8943-f3250e564ab2,Mid-Level Practitioner,Retail,LifeCure,USA,WV,Brownshire,142.01207729468598
+2020-03-01,8f524cfa-d941-4db6-83bf-3c477e428fe2,Academic,Online,MediGen,USA,NM,East Briana,126.83202099737532
+2021-12-01,905b1df0-11ec-4e54-87b3-98aa3fc9ffbd,Clinic,Non-Retail,HealthPlus,USA,WA,Lake Amanda,181.2537313432836
+2021-09-01,2e94bbb6-b2bd-411a-88d8-ab90515ccbeb,Clinic,Retail,WellnessRX,USA,WA,Christopherberg,278.0689655172414
+2021-06-01,cf45f1b5-3706-410a-a2d2-95df183ff7ca,Academic,Retail,HealWell,USA,NH,Leslieland,220.86493506493505
+2022-08-01,34714ee2-283a-4494-9c52-b820f25e421f,Pharmacist,Retail,HealthPlus,USA,NM,Maloneberg,335.06451612903226
+2022-04-01,81097739-1689-414d-a141-4bb4a36e3946,Hospital,Non-Retail,HealthPlus,USA,WV,Dianeport,162.1662817551963
+2020-06-01,662b9898-9376-44ad-aa00-638c2e491694,Practitioner,Retail,MediGen,USA,AK,South Johnside,186.65284974093265
+2021-08-01,ebfdc684-4520-4cf0-8744-1aa51e7ddba5,Hospital,Online,HealWell,USA,KY,Marshfurt,74.26415094339623
+2023-11-01,6cf3b472-5ac5-4f3d-82f8-a9d559fd9819,Mid-Level Practitioner,Retail,BioWell,USA,CO,Dannychester,293.1034482758621
+2020-04-01,40d7d14d-68ca-4d75-9d74-30af2acd315d,Practitioner,Online,MediCare,USA,VT,Stephaniemouth,164.64362850971924
+2020-04-01,1f2dc2de-1ef7-44d4-a2db-8434c97f879e,Academic,Retail,LifeCure,USA,WY,Jessicaside,122.93916349809886
+2023-09-01,9310761d-afbc-4e90-a5ec-58798aab2655,Pharmacist,Online,BioWell,USA,OK,East Brittneyland,473.8872180451128
+2023-04-01,6d3d499d-b6ae-4ec6-8d88-67f86844e244,Pharmacist,Retail,WellnessRX,USA,MA,Robertstad,34.15135135135135
+2020-03-01,d808c5fb-f9d3-4c10-8673-54d033743833,Hospital,Retail,HealWell,USA,AL,Kristenton,125.56756756756756
+2023-09-01,9af27f53-1b05-4a31-a32b-61bd72ca7d3d,Nurse,Online,PharmaCare,USA,SD,Mackenzieshire,221.15131578947367
+2023-03-01,64084ebe-6d20-4e0c-8a22-2588de810376,Clinic,Non-Retail,PharmaX,USA,OH,New Daniel,511.3504823151125
+2023-12-01,7a1a43a3-caad-4630-acd9-5795b45c1d07,Clinic,Retail,WellnessRX,USA,AK,Kerrtown,109.08896797153025
+2022-05-01,7d12b3fd-e099-4feb-a835-836e8943c938,Hospital,Online,HealWell,USA,CA,Calderonville,34.286206896551725
+2022-03-01,b1ff4dce-bffc-4126-8124-1165998e73e7,Clinic,Non-Retail,VitaLife,USA,MS,East Ryanbury,32.081799591002046
+2022-11-01,714b4979-11a8-4f56-b591-92c02be2b1ed,Academic,Non-Retail,MediGen,USA,SD,East Joseph,266.531512605042
+2023-09-01,dc1c8f40-1334-4f64-8065-21bfb1632c31,Nurse,Retail,PharmaCare,USA,IL,Yvonneton,498.4841498559078
+2020-02-01,dbdc5b7f-d2cf-4b97-b5cd-c8fba9fb8cb9,Mid-Level Practitioner,Retail,PharmaX,USA,MD,Justinport,144.00694444444446
+2021-08-01,8e5bcca7-08af-42f7-b1da-6af49654f827,Mid-Level Practitioner,Non-Retail,WellnessRX,USA,MI,South Eric,365.4141414141414
+2020-10-01,f584563a-6cd7-4d74-9cf7-0c21a47499e5,Clinic,Retail,WellnessRX,USA,DE,North Amyborough,194.79333333333332
+2023-02-01,4480c47a-f94a-43a7-9a78-0317cca5b3e9,Pharmacist,Non-Retail,MediCare,USA,WI,Lake Gregside,401.8235294117647
+2022-12-01,161a3e84-c22a-4ebd-bcb9-89046e2f1e51,Mid-Level Practitioner,Online,WellnessRX,USA,NJ,Simonhaven,182.29770992366412
+2022-12-01,9d7b0a56-2664-4a7c-a3ac-99d956f0ee39,Clinic,Retail,WellnessRX,USA,CA,Jacobstad,198.35573122529644
+2020-03-01,2294b830-8215-492d-8f74-6289bffbfc80,Clinic,Retail,BioWell,USA,SC,Lake Ginahaven,284.7816091954023
+2020-06-01,2274fa76-0ca5-441c-b103-8f26557b30ae,Mid-Level Practitioner,Online,MediGen,USA,KY,South Jamesstad,81.84306569343066
+2023-04-01,ffac1095-45c4-4e1c-9b31-a59fda084cd5,Academic,Retail,LifeCure,USA,MT,Davischester,454.19354838709677
+2023-10-01,68e1b6fb-a533-4a72-8559-cf20113cc6e1,Clinic,Online,PharmaX,USA,SC,Fullerfort,15.555555555555555
+2024-01-01,b396a45a-98f1-477c-8e04-8d0ab1025dc6,Academic,Online,VitaLife,USA,SC,Lake Davidton,343.7086092715232
+2022-08-01,312981c7-0ec5-4e80-b4e4-26c4c540039a,Hospital,Online,HealthPlus,USA,GA,Lopezborough,59.1493670886076
+2021-11-01,24725254-a0ee-4cd1-9985-26238def8b56,Clinic,Non-Retail,LifeCure,USA,SD,New Tonifurt,115.18005540166205
+2022-12-01,31e60c9c-3718-4df7-9d8f-89b0f9afd70b,Hospital,Retail,PharmaX,USA,MD,Barnesfort,157.5787878787879
+2022-09-01,c4884cc9-64af-4ca1-b70e-119bcfd4429c,Pharmacist,Non-Retail,HealWell,USA,LA,North Alicia,243.73002159827215
+2022-10-01,4b769d3b-a9b5-4c56-86cf-f74e2cde94f2,Practitioner,Retail,PharmaX,USA,GA,East John,327.2977099236641
+2022-06-01,d1f72c72-7338-47b7-a7a6-2918e5032cc1,Clinic,Retail,MediGen,USA,CA,South Brian,120.5111111111111
+2023-12-01,8c058862-de4f-4f98-91fc-e572bbc9aaa0,Pharmacist,Non-Retail,HealthPlus,USA,AK,Gordonside,148.97297297297297
+2021-08-01,581de27b-78d6-437f-af1b-42b9296527fc,Academic,Retail,MediCare,USA,AR,West Amy,96.58771929824562
+2022-08-01,0b42471c-3606-4310-b81a-da8051d40e7d,Pharmacist,Non-Retail,LifeCure,USA,IL,Mcgeeside,21.653543307086615
+2021-06-01,97bb50cc-80b1-4d2b-8b09-bc0837477f16,Clinic,Online,BioWell,USA,AK,Brownburgh,440.8666666666667
+2022-09-01,87825e3b-1d28-46de-b063-a271a8150909,Practitioner,Non-Retail,WellnessRX,USA,OR,Michaelville,578.4324324324324
+2020-11-01,8e5ebad9-8b4a-418b-b164-319947762051,Nurse,Retail,PharmaX,USA,MI,West Josechester,138.5463917525773
+2022-05-01,f1f05a96-9026-4cf3-baae-f2b1a3ebe77e,Mid-Level Practitioner,Online,PharmaX,USA,VA,Port Fernando,366.0
+2022-06-01,b6b1bcb7-1301-48ff-8293-356c075f6d1f,Clinic,Online,LifeCure,USA,SD,Loriland,161.57575757575756
+2022-10-01,05253fe6-6249-4e23-ad36-66256881ffd6,Nurse,Retail,PharmaCare,USA,UT,Port Guy,227.82954545454547
+2023-06-01,20e68928-9318-4a0a-a6e9-54390e89fb49,Academic,Online,PharmaX,USA,AZ,Jacobfort,389.91350210970467
+2021-12-01,32ca1045-9718-4b63-bbee-443b44c68686,Clinic,Non-Retail,HealWell,USA,NM,West Elizabethton,99.58064516129032
+2023-07-01,eba9579d-604f-43fe-9b92-064df46a9653,Practitioner,Online,PharmaX,USA,UT,Port Robert,520.5326633165829
+2022-10-01,b93c82a6-d3bd-4a70-a20f-caf0bea72865,Hospital,Non-Retail,MediGen,USA,MN,Jenniferport,116.48036951501155
+2023-10-01,c6ff8933-c617-48b5-9cf0-5ce7ee39f571,Practitioner,Retail,BioWell,USA,WY,North Danielletown,144.26956521739132
+2020-10-01,1638da77-5e7f-4d8a-b5ae-bd68b6b20868,Academic,Retail,PharmaX,USA,IN,New Craigtown,308.39130434782606
+2022-11-01,00449301-e73f-455d-ad56-fdf4895a1700,Pharmacist,Non-Retail,HealWell,USA,VA,Fowlerberg,29.88679245283019
+2024-01-01,4f8d3490-4acb-4221-aca1-f1906bfa9993,Clinic,Online,HealthPlus,USA,NJ,Codyside,210.4954128440367
+2020-12-01,fb6c1e31-b6b0-4a76-a7bd-41c8d62a9d0e,Pharmacist,Non-Retail,WellnessRX,USA,NY,North Amy,84.21666666666667
+2022-02-01,193e671d-79d2-4ecc-b840-4a339c28897c,Mid-Level Practitioner,Online,MediGen,USA,SD,Harveyland,74.79
+2022-09-01,cc9d5a3b-2f6a-4273-93f8-607214df4a14,Academic,Retail,WellnessRX,USA,CO,East Susanshire,123.24120603015075
+2023-07-01,70a67cdd-833f-465a-b7e2-2a3c7d6268fa,Clinic,Online,BioWell,USA,SD,West Jeremiahchester,558.6054054054053
+2020-08-01,1d79e3c6-e7f6-486e-9dec-bd0ee36293e8,Hospital,Online,PharmaCare,USA,NE,Christianside,127.44444444444444
+2024-01-01,efb8c381-581b-4fad-96d3-036e9240dea6,Academic,Non-Retail,PharmaX,USA,AL,Johnchester,77.76271186440678
+2022-01-01,43ca899d-6a0f-4159-b2bc-098925ec6f02,Academic,Non-Retail,HealWell,USA,DE,Patrickborough,980.4873949579832
+2022-03-01,60cef0fd-4dfa-48fe-af8e-7477440ea140,Nurse,Non-Retail,HealthPlus,USA,PA,Lake Josephfort,30.54968287526427
+2021-06-01,1088680b-f63f-4071-8ad1-47290cf33c24,Pharmacist,Online,HealthPlus,USA,MT,Gonzalesmouth,1273.5483870967741
+2021-11-01,6bb79a1b-d1fb-458a-8102-81847fda0b65,Pharmacist,Online,MediGen,USA,KY,Matthewstad,166.168776371308
+2020-09-01,c67a1f26-bd3e-44f9-84ae-1f2ec144d7ca,Hospital,Online,LifeCure,USA,SC,Jamesmouth,633.1182795698925
+2022-07-01,cbd56f03-0b34-4d2c-a39e-d96adbc854d8,Nurse,Non-Retail,HealthPlus,USA,IA,Sergioshire,194.57486631016042
+2021-10-01,7e7ce332-3ec6-40ea-8261-85a196961724,Academic,Retail,PharmaCare,USA,MI,Port Chelseabury,513.7322274881517
+2023-02-01,436e8e43-65b5-4b81-a1d2-7b535621d60c,Academic,Non-Retail,VitaLife,USA,NM,Kellyberg,584.2105263157895
+2022-03-01,9ed4d94f-f53b-44ee-bceb-2d46e00e8114,Mid-Level Practitioner,Online,PharmaCare,USA,WI,New James,669.1194029850747
+2021-12-01,7680ea34-d842-45d6-9f2b-4f9eb4f03c6c,Mid-Level Practitioner,Online,HealthPlus,USA,TN,Christopherhaven,196.58700696055683
+2021-06-01,6af34eca-8349-48bb-a3ab-0109a5d2f676,Nurse,Online,LifeCure,USA,GA,South Sarahville,28.460704607046072
+2020-10-01,897ff9d9-a3f4-476a-a79d-f4d114b3ed23,Hospital,Retail,WellnessRX,USA,NJ,Hawkinsport,904.3978494623656
+2021-08-01,6fd94c3f-c3b3-4166-9e5e-085bb70de65f,Practitioner,Non-Retail,WellnessRX,USA,KY,New Kevin,165.71629213483146
+2022-07-01,f3573436-8f4d-48c6-af73-3326580b53bc,Hospital,Online,LifeCure,USA,HI,Johnville,78.88372093023256
+2020-07-01,4a96495b-715b-4f3d-8d90-d8fc71a3cbf5,Pharmacist,Online,PharmaX,USA,LA,Hardingfort,1248.5238095238096
+2021-07-01,8866fcec-c0fb-4539-a9f3-d7a50bf0d167,Pharmacist,Online,WellnessRX,USA,NJ,Olsonmouth,92.55555555555556
+2020-06-01,7654f48b-13ee-4807-b699-aea395fbdb10,Hospital,Non-Retail,HealthPlus,USA,SC,Lake Ginaton,387.4264705882353
+2023-09-01,49fb5c82-454e-42b7-a6f8-1958bf5c2a45,Academic,Non-Retail,MediCare,USA,VT,Michaelland,306.27358490566036
+2021-05-01,3b86fe3a-e840-4430-8f1f-89a7143618ba,Mid-Level Practitioner,Retail,MediGen,USA,VA,Smithhaven,44.512953367875646
+2020-05-01,f5f4ac40-171d-412f-81b7-e95b3205b79b,Mid-Level Practitioner,Online,MediGen,USA,FL,Tiffanyville,828.6923076923077
+2023-09-01,b65fbe05-5256-4368-b2d0-81580c2a3416,Clinic,Online,MediCare,USA,RI,North Alexanderberg,367.68639053254435
+2021-02-01,3b4cb8f3-b98b-45bc-9bb9-bffe9c92229c,Pharmacist,Retail,MediGen,USA,TN,Millermouth,266.90547263681594
+2020-02-01,1a3f2fa5-d0e1-4146-8464-4f7728db6575,Mid-Level Practitioner,Online,BioWell,USA,CA,North Kennethland,445.16731517509726
+2020-12-01,536d332b-66c2-4c62-a333-c54503cf8a7a,Mid-Level Practitioner,Retail,BioWell,USA,KS,Amytown,991.6760563380282
+2023-04-01,770a5d9c-4582-495d-848d-bb127a6fcd05,Pharmacist,Non-Retail,WellnessRX,USA,MI,West Morganview,548.4147157190636
+2021-04-01,6ae9c97b-54e0-4fbd-8a93-24184a2d9532,Mid-Level Practitioner,Retail,BioWell,USA,NH,Michaeltown,159.12
+2022-02-01,19ecacd2-e09a-4da3-b68b-4d05b8a95e5a,Mid-Level Practitioner,Retail,VitaLife,USA,WI,Andradestad,104.46854663774404
+2022-06-01,41f13874-ad14-4744-998c-b6977aae4bb2,Nurse,Online,WellnessRX,USA,NH,Stephenburgh,350.6260162601626
+2020-06-01,9ea67da4-014c-46c7-9a4b-276541b5a9f3,Mid-Level Practitioner,Online,MediGen,USA,SC,Brianafort,52.307328605200944
+2021-07-01,6416ae83-e176-40c0-9a55-8ade5578261d,Mid-Level Practitioner,Online,MediGen,USA,MI,South Cynthiaport,501.9669421487603
+2022-03-01,f3c2a940-aaed-4c32-aab7-73e23ffd4799,Mid-Level Practitioner,Non-Retail,WellnessRX,USA,IN,Hudsonchester,343.25581395348837
+2023-12-01,b3bc4a8d-34ce-472d-8a43-6715593c5805,Mid-Level Practitioner,Retail,LifeCure,USA,RI,West Herbert,52.361702127659576
+2020-06-01,01415166-2d8f-45d7-9d8e-788ad5abf09b,Clinic,Non-Retail,WellnessRX,USA,IN,Solomonstad,51.990595611285265
+2020-06-01,6979b3e9-72e0-4cd5-94c7-27d8070c2d01,Academic,Retail,PharmaX,USA,TN,Fraziermouth,253.92737430167597
+2022-11-01,7dbb5713-50a7-42ec-bf86-9477704afcb7,Pharmacist,Non-Retail,MediGen,USA,MI,East Jotown,486.69642857142856
+2020-02-01,0422a0a6-0b85-44c9-b75e-234741d2af1e,Clinic,Online,MediCare,USA,VA,East Meganville,239.54471544715446
+2021-09-01,9ba47167-a2e3-4655-8982-6e268c252282,Pharmacist,Online,PharmaCare,USA,NM,West Patricia,1774.9722222222222
+2022-01-01,7b50b056-ef5a-4ec7-8388-5b78f3e9667e,Hospital,Retail,MediGen,USA,UT,Ericburgh,303.2582781456954
+2020-11-01,73aa36a5-d674-4eab-9d6c-2382d188aaaf,Pharmacist,Online,LifeCure,USA,MS,Baileyville,71.51724137931035
+2020-05-01,cdb30277-5032-4b35-a5ed-24fc331adbae,Mid-Level Practitioner,Online,BioWell,USA,OR,East Toniside,95.44159544159544
+2020-02-01,9da6df15-c019-49f0-a11a-c120d0fa9a90,Pharmacist,Retail,PharmaX,USA,ND,Quinnstad,43.168539325842694
+2023-07-01,107b5f35-5d9c-4a5d-a116-cbbd8141e057,Clinic,Retail,HealthPlus,USA,CA,Lake Shawnmouth,152.30769230769232
+2020-05-01,03f622d0-412e-47d5-b1ba-42e1c8d41182,Mid-Level Practitioner,Non-Retail,MediGen,USA,LA,Eugeneborough,139.3465909090909
+2023-02-01,915e3268-b9cd-4c4d-83e4-4ee74f450f82,Academic,Non-Retail,MediCare,USA,TX,Schmidttown,1610.28
+2022-08-01,34b06567-9ae5-4ef0-b9e7-f5d18719a280,Clinic,Retail,MediGen,USA,AK,North Kimberly,564.4654088050314
+2023-03-01,3711246d-3356-48db-99e2-5ec408d6e776,Practitioner,Retail,WellnessRX,USA,KS,West Charlesburgh,220.27777777777777
+2020-09-01,d8fe1241-12f8-4458-8ecd-40732144752b,Academic,Online,VitaLife,USA,AZ,Richardsonport,826.2698412698413
+2023-05-01,293df152-beb5-4c6a-b465-40249411473f,Clinic,Online,PharmaCare,USA,RI,New Brendachester,373.6764705882353
+2022-09-01,3b698b75-d250-4aab-88ce-726baed6875c,Mid-Level Practitioner,Online,BioWell,USA,IN,East Brenda,185.83033419023135
+2022-04-01,142ff0b4-b4d8-4e5e-9233-0aee5b738471,Pharmacist,Non-Retail,MediGen,USA,ID,Mooremouth,266.7191011235955
+2023-04-01,6855a385-5379-4564-b176-b61f562e988e,Practitioner,Retail,VitaLife,USA,SD,Thomasbury,21.19290465631929
+2021-10-01,4058e986-5998-45bf-a308-455bedab7a33,Mid-Level Practitioner,Non-Retail,LifeCure,USA,AL,Jerryland,386.31601731601734
+2021-08-01,ecf9d1b9-a27e-4837-b35e-5950e2340035,Mid-Level Practitioner,Non-Retail,VitaLife,USA,TN,New Connie,89.29411764705883
+2021-04-01,7abd1133-e4ec-4fdf-9489-b9011b7b5c8c,Nurse,Retail,HealWell,USA,MO,East Ryanbury,55.45794392523364
+2023-05-01,11f15f21-ce1e-4177-b7bf-d153bb177be4,Pharmacist,Retail,WellnessRX,USA,AL,Port Kathryn,172.41379310344828
+2021-04-01,1925a075-4d19-4386-8576-8f24b34fb9ac,Clinic,Non-Retail,WellnessRX,USA,IA,Lake Dustinchester,1067.2340425531916
+2023-07-01,ac9841d3-0ad3-4a77-b392-c1df63a40905,Nurse,Online,VitaLife,USA,MO,Barbarafort,161.44019138755982
+2023-05-01,db83f2c7-14ea-44d4-8a64-d94a3b59bef9,Pharmacist,Online,BioWell,USA,SD,New Ana,184.27076923076922
+2022-07-01,a398cf30-7d7f-4f49-9afc-04538ba43327,Academic,Non-Retail,VitaLife,USA,WI,Port Sara,3144.9180327868853
+2022-10-01,18fb59a3-1ef2-48a5-9c8f-7ba9eded663a,Hospital,Non-Retail,WellnessRX,USA,AR,Lake Rachel,1111.936305732484
+2022-06-01,c5293a8f-537b-41f2-8c82-6b1b931f53d2,Practitioner,Non-Retail,HealWell,USA,KS,Port Sandra,91.7560975609756
+2022-09-01,e0b03f94-56b8-4c22-8101-7c748cff690e,Practitioner,Non-Retail,PharmaX,USA,TN,Davenportmouth,54.33408577878104
+2023-08-01,ac38ded8-ccf8-417b-ae52-b91cf2b37f43,Hospital,Retail,MediGen,USA,IA,West Tylerchester,324.6642857142857
+2021-10-01,6c49b210-889b-4949-9e64-b37b8e8d3cda,Nurse,Retail,HealWell,USA,NY,Lake Richard,31.662447257383967
+2023-07-01,932e13a8-1272-4f12-8456-c43183e957a4,Practitioner,Non-Retail,PharmaCare,USA,MA,Port Alexanderfort,514.7435897435897
+2022-04-01,babcf55d-ee71-4860-8690-722ddf4d711c,Pharmacist,Non-Retail,PharmaX,USA,WV,North Jonathan,198.20809248554914
+2020-06-01,59166ea4-073e-4aa2-9388-315bca75020e,Academic,Non-Retail,MediCare,USA,ME,New Kristinaport,82.83870967741936
+2022-10-01,480c78b7-29b2-4ac7-a675-aa6d9818ff97,Nurse,Retail,VitaLife,USA,NV,Bensonville,127.83287671232877
+2020-09-01,3e597ac5-c331-4745-80e4-563860f597ec,Hospital,Online,BioWell,USA,AZ,Deborahchester,685.5652173913044
+2023-10-01,14caa215-375d-4c28-a554-d9705fa29a54,Clinic,Retail,WellnessRX,USA,PA,West Angelica,620.3669724770642
+2021-07-01,5fb06407-e608-4c74-b24d-28dde9f626e2,Hospital,Retail,BioWell,USA,MO,North Jason,95.05076142131979
+2022-02-01,13020bb3-f455-4ed4-8a78-583317df68c7,Nurse,Non-Retail,MediCare,USA,ME,Lloydland,240.13986013986013
+2022-04-01,28c2515a-9520-44a4-8d73-fe2ad03b0c1f,Nurse,Non-Retail,VitaLife,USA,NM,Adamstown,92.7378640776699
+2021-03-01,55f6af05-da92-41e0-a19b-98a8285f14b8,Nurse,Non-Retail,HealWell,USA,NC,North Lisamouth,258.0568720379147
+2023-09-01,f97cfd2c-4bdb-4249-b4eb-10c8bd26016f,Clinic,Online,PharmaX,USA,WV,Williamsville,292.52
+2022-01-01,36c74e68-e34d-4a7a-911e-d1866c369582,Hospital,Online,MediGen,USA,SD,Anthonymouth,222.90831556503198
+2020-07-01,467fbbb9-7986-478f-b354-33bc46ed90d3,Nurse,Retail,WellnessRX,USA,NY,Allenmouth,363.47169811320754
+2020-12-01,db0bb983-858f-4e2e-b3fd-7bbc6c62ef2c,Mid-Level Practitioner,Non-Retail,BioWell,USA,AZ,Littlechester,103.8646408839779
+2022-07-01,43087e45-cfb6-4262-9076-5375e1e6b99f,Academic,Retail,PharmaX,USA,AL,Sharonland,45.53056768558952
+2020-06-01,40465b50-02e2-4245-b3c0-ba6cefda3f57,Hospital,Retail,MediGen,USA,MA,West Zacharyville,1328.5882352941176
+2020-09-01,2a1e3946-417d-4c7f-a8c5-0e9c22423216,Academic,Non-Retail,LifeCure,USA,VT,Jenniferbury,478.55102040816325
+2021-02-01,b5d9e0ff-9a75-453a-bedf-19e1ab9811cb,Clinic,Non-Retail,HealthPlus,USA,ID,New Kathryn,686.6046511627907
+2020-11-01,1af112c0-7183-47eb-86a7-127c2a27a39a,Pharmacist,Retail,VitaLife,USA,AL,Carrieside,315.6507042253521
+2022-03-01,0c0d58bc-a544-40b5-9699-8ed948b19608,Clinic,Retail,HealthPlus,USA,CA,New Megan,399.0339943342776
+2021-11-01,1ced9e83-2db5-4a20-8f95-fd08f0f77b81,Clinic,Retail,BioWell,USA,WV,Charlesport,284.0880681818182
+2020-10-01,c6e0e9c9-952e-4a76-8438-becdf1712cda,Practitioner,Retail,VitaLife,USA,NY,North Briannastad,868.5
+2021-08-01,62a0d945-5127-424d-91ad-3a65bbe4562c,Practitioner,Non-Retail,LifeCure,USA,NV,Port Adamfort,464.54128440366975
+2023-08-01,373581bf-fdf6-4880-9c5f-853e327561e2,Mid-Level Practitioner,Online,HealWell,USA,CO,Joseview,426.5163636363636
+2022-03-01,284b6eaf-07a3-4965-9d91-85025423b6bd,Hospital,Non-Retail,MediCare,USA,WI,East Vernon,503.6170212765957
+2023-10-01,9e4852ef-d31f-485a-ad52-9a0c2110e82b,Practitioner,Online,MediCare,USA,AZ,Lake Thomas,143.63924050632912
+2021-06-01,2f20e935-d517-47b8-bdb6-51a5a9d01d39,Hospital,Online,MediCare,USA,UT,Lake Bryanburgh,215.13245033112582
+2022-05-01,2653b781-9466-49f8-831a-2b68d529e805,Hospital,Retail,MediGen,USA,AK,East Taylor,678.4723032069971
+2023-08-01,2e2d757d-e550-449e-a19e-cbda611bbbb3,Practitioner,Retail,HealthPlus,USA,SD,Caitlinland,81.75588235294117
+2023-02-01,8b9d31ed-ec4e-48de-9bc6-ea2e363d3822,Practitioner,Retail,MediGen,USA,VA,New Michelle,369.82758620689657
+2021-11-01,73f82342-8a1b-4a04-8560-412eb4ebbf6d,Nurse,Retail,BioWell,USA,IN,Rebeccaview,936.4493392070484
+2024-01-01,6431e88f-ba17-4921-b58f-c0e6fa6e7dbc,Nurse,Online,BioWell,USA,WA,Michaelaside,126.48366013071896
+2022-06-01,8ef122be-24ba-437c-b5f8-31a5ba0b532c,Mid-Level Practitioner,Online,MediGen,USA,ID,Josefurt,119.5945945945946
+2023-09-01,208cf4e6-2c99-4e75-8e13-172cfb40d1c1,Mid-Level Practitioner,Non-Retail,VitaLife,USA,AL,South Calebview,564.5034965034965
+2020-06-01,8d1c501a-8067-498d-a965-8eaec21eb2b7,Mid-Level Practitioner,Retail,HealthPlus,USA,ME,Dannyburgh,364.31297709923666
+2021-06-01,12853873-5fc2-4972-b517-c0a7e86d5e0f,Practitioner,Retail,LifeCure,USA,MS,Alvarezstad,546.0995850622406
+2022-03-01,da263330-9e21-443d-9d3e-a2471a88416f,Clinic,Non-Retail,MediGen,USA,UT,Patrickville,407.2961373390558
+2022-04-01,1c10a0bd-c5b3-4621-b963-effb1ef16059,Pharmacist,Retail,BioWell,USA,NY,Gregorybury,60.99595141700405
+2021-01-01,76c8fa93-b138-469d-a901-5316e1fe24cb,Clinic,Non-Retail,MediCare,USA,WA,Williamborough,95.35135135135135
+2020-08-01,7f7209c1-777b-4853-a9f1-b96b221e7d4e,Hospital,Online,WellnessRX,USA,KY,New Ashley,387.13178294573646
+2020-03-01,5b341098-1b84-4edf-b948-3bd3ecf70bcd,Clinic,Non-Retail,MediCare,USA,HI,Traceyside,146.4969512195122
+2023-08-01,cd4f3907-f897-40de-be70-effb5f66bdf5,Academic,Retail,PharmaCare,USA,AK,Tiffanymouth,785.5515463917526
+2023-08-01,5fbd4059-02ea-48bd-86a3-7e880cc7ee44,Pharmacist,Online,PharmaCare,USA,IL,Annland,64.52554744525547
+2022-10-01,882f5a0b-0726-4270-9862-715a34cf2ca9,Practitioner,Non-Retail,HealWell,USA,IA,Wattsshire,40.95867768595041
+2020-05-01,7d56bc3a-d113-4439-aa8d-40a15bebd11c,Hospital,Non-Retail,PharmaX,USA,TX,Camposland,53.37901498929336
+2020-10-01,7933b28d-7225-4e45-9137-0749adb3f523,Pharmacist,Online,BioWell,USA,IN,South Josephton,189.91097922848664
+2020-05-01,d51eaef1-694b-4106-a26f-3fd1ff05e40c,Practitioner,Online,BioWell,USA,PA,New Raymond,66.6
+2020-03-01,e83ebdb0-118e-4854-9965-1b15c347a5b7,Mid-Level Practitioner,Online,MediCare,USA,MD,East Williamfurt,26.68235294117647
+2022-04-01,e887421f-e930-4925-a81c-e21ca1b7e0ae,Pharmacist,Online,VitaLife,USA,AK,Port Erin,249.80392156862746
+2021-02-01,3ef6f6e5-78e9-498f-b2af-b1f07905cda6,Academic,Online,MediGen,USA,ND,Johnport,527.1639344262295
+2020-05-01,fba7a71c-1a04-47de-b236-5f0dc3c5660d,Mid-Level Practitioner,Retail,HealthPlus,USA,CO,Martinshire,68.01769911504425
+2021-04-01,04854b8f-f7fc-44be-9d50-408630b35d87,Academic,Non-Retail,VitaLife,USA,ID,New Anitaborough,1257.8947368421052
+2023-09-01,00d7c927-703b-4782-bbf2-822b585dbc09,Practitioner,Non-Retail,LifeCure,USA,VT,Lake Jameschester,307.0752688172043
+2021-06-01,5aff18be-86b3-4627-b2df-4f9c6d3b1e0d,Academic,Non-Retail,BioWell,USA,ME,Millerberg,108.8
+2023-08-01,a71d2937-2ff6-47a9-b6bd-88bc79ed2160,Practitioner,Online,MediGen,USA,IN,Lopezfort,403.44117647058823
+2023-03-01,c0e6a62e-e5ef-4297-8e3b-dce8133453f1,Clinic,Retail,MediGen,USA,SD,West Jesse,1156.59375
+2022-06-01,f0b8cde0-dc43-4654-b76e-5b2fb45f354d,Mid-Level Practitioner,Retail,MediGen,USA,UT,Leshire,2416.064516129032
+2020-08-01,dd85ab4a-1cb3-4d2a-b957-e0cb54229af1,Academic,Online,BioWell,USA,IN,Port Jenniferberg,215.31626506024097
+2020-10-01,2651e0e8-484c-43f9-b62d-b714c010e62a,Mid-Level Practitioner,Non-Retail,PharmaCare,USA,KY,East Davidtown,569.4016172506739
+2021-12-01,d5457f88-21dd-4c83-9bed-c91a12fe27ea,Clinic,Non-Retail,HealthPlus,USA,MA,Harmonfort,391.02564102564105
+2023-12-01,39e074e7-f1bd-4af5-9bb1-fbd8b1adec0f,Academic,Retail,HealthPlus,USA,AR,Reynoldshaven,252.6609442060086
+2023-03-01,cc24daa4-243e-47b6-95c3-73aa5977e2ae,Mid-Level Practitioner,Online,WellnessRX,USA,MO,Markbury,2109.9444444444443
+2023-11-01,e0ed4c8b-82d5-44b1-b164-990c8f80bec5,Nurse,Non-Retail,PharmaX,USA,TX,Port Joycemouth,1055.892857142857
+2022-12-01,8dfa06ca-e19a-4aac-a69b-facd193e1f27,Mid-Level Practitioner,Retail,HealWell,USA,NY,Markview,701.8314606741573
+2021-08-01,fa1836d2-7290-4491-9062-c85ffde566e3,Hospital,Non-Retail,MediGen,USA,NH,Tapiaside,66.14545454545454
+2020-12-01,b474e717-349f-43df-9447-453bdb742274,Nurse,Non-Retail,PharmaX,USA,UT,Robinside,378.859756097561
+2020-05-01,51392067-b358-49e0-83bf-3982490f1c10,Pharmacist,Retail,PharmaCare,USA,VT,Stephanieview,74.16740088105728
+2020-04-01,065c30d9-13c2-496a-a05b-a2406040617d,Clinic,Online,VitaLife,USA,MD,Markfort,705.2171717171717
+2023-09-01,fbe3754e-e575-4877-9a12-9eba8702100c,Hospital,Retail,PharmaCare,USA,MT,East Deborah,79.12371134020619
+2021-07-01,7ea9ad76-dae1-4bb2-8f06-8c40fa87eaa6,Mid-Level Practitioner,Non-Retail,WellnessRX,USA,TX,Wilsonchester,279.73228346456693

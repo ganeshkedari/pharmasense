@@ -1,0 +1,706 @@
+chartID,questions
+average_sales_histogram,How does our market share compare to competitors?
+average_sales_histogram,Are there emerging market opportunities?
+sankey,What external factors influence sales?
+pie_chart_sales_type,How do we perform against industry sectors?
+sankey,Can we analyze the competitive landscape?
+sankey,What barriers exist in specific markets?
+pie_chart_sales_type,Do cultural differences impact purchasing?
+pie_chart_sales_type,Are there regulatory challenges affecting sales?
+brand,How does brand perception compare to competitors?
+brand,What partnerships can enhance competitiveness?
+stacked_bar,Customer acquisition cost?
+average_sales_histogram,Lead generation trends?
+pie_chart_sales_type,High-acquisition channels?
+pie_chart_sales_type,Referral program effectiveness?
+pie_chart_sales_type,Strategies to increase customer referrals?
+stacked_bar,Who are the top customers in terms of sales?
+stacked_bar,How does sales vary by customer type?
+sankey,Any trends in purchasing behavior among individual customers?
+customer_type,What's the distribution of sales across different customer types?
+customer_type,How do repeat customers contribute to overall sales?
+customer_type,Any loyal customers making consistent high-value purchases?
+average_sales_histogram,What's the average sales volume per customer type?
+sunburst,Correlations between customer demographics and purchasing patterns?
+customer_type,How does customer satisfaction impact repeat sales?
+customer_type,What percentage of sales comes from corporate clients versus individuals?
+customer_type,Who are the top 10 customers in terms of sales?
+customer_type,"How does sales vary between different customer types (e.g., individual, corporate)?"
+customer_type,What are the recent trends in purchasing behavior among individual customers?
+pie_chart_sales_type,Can we analyze the distribution of sales across different customer types?
+customer_type,How do repeat customers contribute to overall sales?
+customer_type,Are there any loyal customers who consistently make high-value purchases?
+average_sales_histogram,What is the average sales volume per customer type?
+sunburst,"Are there any correlations between customer demographics (age, gender, income) and purchasing patterns?"
+sunburst,How does customer satisfaction impact repeat sales?
+customer_type,What percentage of sales comes from corporate clients versus individual customers?
+stacked_bar,Top customer sales analysis?
+sankey,Sales by customer type?
+customer_type,Trends in customer purchases?
+customer_type,Sales per customer type?
+customer_type,Repeat customers' contributions?
+average_sales_histogram,Loyal customers' purchasing habits?
+sunburst,Average sales volume analysis?
+customer_type,Demographics and purchasing patterns?
+customer_type,Satisfaction impact on sales?
+customer_type,Corporate versus individual sales?
+customer_type,What insights do top customer sales offer?
+customer_type,How do sales vary among customer types?
+pie_chart_sales_type,Any notable trends in customer purchases?
+customer_type,Can we analyze sales per customer type?
+customer_type,How do repeat customers impact sales?
+customer_type,Do loyal customers exhibit consistent buying habits?
+customer_type,What's the average sales volume across customer types?
+customer_type,Are there correlations between demographics and purchases?
+customer_type,How does satisfaction influence sales?
+customer_type,What's the distribution between corporate and individual sales?
+sunburst,How often do customers make repeat purchases?
+sunburst,Correlations between satisfaction ratings and sales?
+customer_type,Factors influencing customer churn rates?
+stacked_bar,Correlations between feedback and sales?
+sankey,Trends in customer purchasing frequency?
+customer_type,Average customer lifetime value?
+customer_type,How do customer demographics influence behavior?
+customer_type,Correlations between engagement levels and sales?
+average_sales_histogram,Strategies to improve customer satisfaction?
+sunburst,How does loyalty impact sales growth?
+customer_type,How frequently do our customers make repeat purchases?
+customer_type,Are there any correlations between customer satisfaction ratings and sales revenue?
+customer_type,What factors influence our customer churn rates?
+customer_type,Is there a correlation between customer feedback and our sales performance?
+customer_type,Are there any trends in our customers' purchasing frequency?
+pie_chart_sales_type,What is the average customer lifetime value for our business?
+customer_type,How do our customers' demographics influence their purchasing behavior?
+customer_type,Is there a correlation between our customers' engagement levels and our sales revenue?
+customer_type,What strategies can we implement to improve overall customer satisfaction?
+customer_type,How does customer loyalty impact our overall sales growth?
+sunburst,Repeat purchase frequency analysis?
+sunburst,Satisfaction-sales correlation analysis?
+customer_type,Customer churn rate analysis?
+stacked_bar,Feedback-sales correlation analysis?
+sankey,Purchasing frequency trend analysis?
+customer_type,Customer lifetime value analysis?
+customer_type,Demographics and purchasing behavior?
+customer_type,Engagement-sales correlation analysis?
+average_sales_histogram,Strategies for satisfaction improvement?
+sunburst,Loyalty-sales growth analysis?
+customer_type,How frequently do customers repeat purchases?
+customer_type,Is there a correlation between satisfaction and sales?
+customer_type,What influences customer churn rates?
+customer_type,Are customer feedback and sales linked?
+customer_type,Are there trends in customer purchase frequency?
+pie_chart_sales_type,What's the average customer lifetime value?
+customer_type,Do demographics shape purchasing behavior?
+customer_type,Is there a relationship between engagement and sales?
+customer_type,How can we enhance customer satisfaction?
+customer_type,Does loyalty impact sales growth?
+pie_chart_sales_type,Accuracy of sales forecasts versus actual figures?
+sankey,Limitations or biases in forecasting?
+sankey,How market changes affect forecasts?
+pie_chart_sales_type,Adjusting forecasts in real-time?
+pie_chart_sales_type,How forecasts inform strategic planning?
+brand,Average customer retention rate?
+brand,Impact of loyalty programs on retention?
+stacked_bar,Correlations between engagement and retention?
+average_sales_histogram,Strategies to reduce customer churn?
+pie_chart_sales_type,Impact of post-sales support on retention?
+pie_chart_sales_type,Can past data predict future sales?
+pie_chart_sales_type,What factors contribute to sales trends?
+sales,How accurate are our sales predictions?
+sankey,Are there leading indicators for sales changes?
+average_sales_histogram,What forecasting models are effective?
+stacked_bar,How does inventory management impact sales?
+stacked_bar,Can we identify supply chain bottlenecks?
+stacked_bar,What strategies reduce sales cycle times?
+brand,How does pricing strategy influence sales?
+average_sales_histogram,Are online sales conversion rates improving?
+map,Which countries contribute most to total sales?
+geoState,Regional variations in purchasing behavior within countries?
+geoCity,Sales distribution across different states or provinces?
+map,Sales trends between urban and rural areas?
+geoState,Which cities generate the highest sales revenue?
+geoCity,Any cities with significantly higher sales growth?
+geoState,How do sales figures vary between regions?
+geoCity,Correlations between city size and sales volume?
+map,Factors contributing to differences in sales performance?
+geoState,How does sales performance vary between different regions?
+geoState,Which countries contribute the most to our total sales revenue?
+geoState,Are there any regional variations in purchasing behavior within specific countries?
+geoState,What is the sales distribution across different states or provinces?
+map,How do sales trends differ between urban and rural areas?
+geoState,Which cities generate the highest sales revenue?
+geoCity,Are there any cities experiencing significantly higher sales growth?
+map,How do sales figures vary between different regions?
+geoState,Are there any correlations between city size and sales volume?
+geoCity,What factors contribute to differences in sales performance across regions?
+geoState,How does sales performance vary between different regions?
+geoCity,Top sales by country?
+map,Regional purchasing behavior analysis?
+map,State-wise sales distribution?
+geoState,Urban versus rural sales analysis?
+geoCity,Top cities sales breakdown?
+map,Sales growth city analysis?
+geoState,Regional sales performance comparison?
+geoCity,City size versus sales analysis?
+geoState,Factors influencing regional sales?
+geoCity,Regional sales performance analysis?
+map,How do sales vary by country?
+map,Any regional differences in purchasing behavior?
+geoState,Can we analyze sales distribution by state?
+geoCity,Do urban and rural areas differ in sales?
+map,Which cities drive the highest sales?
+geoState,Are certain cities experiencing rapid sales growth?
+geoCity,How do regions compare in sales performance?
+geoState,Is there a relationship between city size and sales?
+geoCity,What factors influence regional sales?
+map,Can we assess regional sales performance over time?
+map,Company's market share versus competitors?
+geoState,Emerging markets with untapped potential?
+geoCity,External factors influencing sales?
+customer_type,Sales performance between industry sectors?
+pie_chart_sales_type,Competitive landscape within each segment?
+average_sales_histogram,Barriers to entry in specific markets?
+map,Cultural differences affecting purchasing?
+average_sales_histogram,Regulatory considerations impacting sales?
+stacked_bar,Brand perception influencing sales?
+sankey,Opportunities for strategic partnerships?
+sunburst,How effective are marketing campaigns on sales?
+customer_type,What's the ROI of marketing efforts?
+pie_chart_sales_type,Any notable trends in marketing impact?
+average_sales_histogram,Can we assess marketing channel performance?
+map,How does brand perception affect sales?
+average_sales_histogram,What are the opportunities for strategic partnerships?
+stacked_bar,How does marketing influence customer acquisition?
+sankey,Are there correlations between marketing spend and sales?
+sunburst,What's the effectiveness of referral programs?
+customer_type,How do marketing efforts contribute to revenue growth?
+pie_chart_sales_type,Past data predicting future?
+average_sales_histogram,Factors predicting trends?
+map,Prediction accuracy?
+average_sales_histogram,Leading sales indicators?
+stacked_bar,Effective forecasting models?
+sankey,Average lead time from order?
+sunburst,Inventory impact on sales?
+customer_type,Supply chain bottlenecks?
+pie_chart_sales_type,Sales cycle reduction strategies?
+average_sales_histogram,Pricing's impact on sales?
+map,Who are the top customers in terms of sales?
+average_sales_histogram,How does sales vary by customer type?
+stacked_bar,Any trends in purchasing behavior among individual customers?
+sankey,What's the distribution of sales across different customer types?
+sunburst,How do repeat customers contribute to overall sales?
+average_sales_histogram,Any loyal customers making consistent high-value purchases?
+average_sales_histogram,What's the average sales volume per customer type?
+sankey,Correlations between customer demographics and purchasing patterns?
+pie_chart_sales_type,How does customer satisfaction impact repeat sales?
+sankey,What percentage of sales comes from corporate clients versus individuals?
+sankey,Which products have the highest sales volume?
+pie_chart_sales_type,Any seasonal trends in product sales?
+pie_chart_sales_type,Sales distribution across different product categories?
+brand,Any products with declining sales trends?
+brand,How do product preferences vary across customer segments?
+stacked_bar,Which products generate the highest profit margins?
+average_sales_histogram,Correlations between product popularity and location?
+pie_chart_sales_type,Average sales velocity for each product?
+pie_chart_sales_type,How do new products affect overall sales?
+pie_chart_sales_type,Which products have the highest customer satisfaction?
+stacked_bar,Which countries contribute most to total sales?
+stacked_bar,Regional variations in purchasing behavior within countries?
+sankey,Sales distribution across different states or provinces?
+customer_type,Sales trends between urban and rural areas?
+customer_type,Which cities generate the highest sales revenue?
+customer_type,Any cities with significantly higher sales growth?
+average_sales_histogram,How do sales figures vary between regions?
+sunburst,Correlations between city size and sales volume?
+customer_type,Factors contributing to differences in sales performance?
+customer_type,How does sales performance vary between different regions?
+customer_type,Total sales revenue for the given period?
+customer_type,How does sales revenue fluctuate over time?
+customer_type,Any noticeable patterns or anomalies in sales data?
+pie_chart_sales_type,Average sales volume per transaction?
+customer_type,How does sales performance compare to targets?
+customer_type,Proportion of sales from online channels versus offline?
+average_sales_histogram,Correlations between marketing campaigns and sales spikes?
+sunburst,Average sales cycle duration?
+sunburst,Sales revenue between different sales channels?
+customer_type,Average order value for each sales channel?
+stacked_bar,How often do customers make repeat purchases?
+sankey,Correlations between satisfaction ratings and sales?
+customer_type,Factors influencing customer churn rates?
+customer_type,Correlations between feedback and sales?
+customer_type,Trends in customer purchasing frequency?
+average_sales_histogram,Average customer lifetime value?
+sunburst,How do customer demographics influence behavior?
+customer_type,Correlations between engagement levels and sales?
+customer_type,Strategies to improve customer satisfaction?
+customer_type,How does loyalty impact sales growth?
+customer_type,Company's market share versus competitors?
+customer_type,Emerging markets with untapped potential?
+pie_chart_sales_type,External factors influencing sales?
+customer_type,Sales performance between industry sectors?
+customer_type,Competitive landscape within each segment?
+customer_type,Barriers to entry in specific markets?
+customer_type,Cultural differences affecting purchasing?
+customer_type,Regulatory considerations impacting sales?
+customer_type,Brand perception influencing sales?
+customer_type,Opportunities for strategic partnerships?
+sunburst,Can past data predict future sales?
+sunburst,Factors predicting sales trends?
+customer_type,Accuracy of sales predictions?
+stacked_bar,Leading indicators for sales changes?
+sankey,Effective forecasting models?
+customer_type,Average lead time from order to delivery?
+customer_type,Inventory management impact on sales?
+customer_type,Supply chain bottlenecks affecting fulfillment?
+average_sales_histogram,Strategies to reduce sales cycle times?
+sunburst,How does pricing strategy affect sales?
+customer_type,Conversion rate for online sales?
+customer_type,Trends in website traffic versus sales?
+customer_type,Factors influencing online cart abandonment?
+customer_type,How does user experience affect online sales?
+customer_type,Digital marketing channels driving online sales?
+pie_chart_sales_type,Foot traffic conversion rate for stores?
+customer_type,Store layout and merchandising impact on sales?
+customer_type,Geographical considerations for store locations?
+customer_type,In-store promotions driving sales?
+customer_type,Impact of customer service on offline sales?
+sunburst,Average sales conversion rate per representative?
+sunburst,Correlations between training and performance?
+customer_type,Key performance indicators for sales teams?
+stacked_bar,Sales performance differences between territories?
+sankey,Strategies to motivate sales teams?
+customer_type,Cost per acquisition for new customers?
+customer_type,Trends in lead generation effectiveness?
+customer_type,Marketing channels with highest acquisition rates?
+average_sales_histogram,Impact of referral programs on acquisition costs?
+sunburst,Strategies to increase customer referrals?
+customer_type,Accuracy of sales forecasts versus actual figures?
+customer_type,Limitations or biases in forecasting?
+customer_type,How market changes affect forecasts?
+customer_type,Adjusting forecasts in real-time?
+customer_type,How forecasts inform strategic planning?
+pie_chart_sales_type,Average customer retention rate?
+customer_type,Impact of loyalty programs on retention?
+customer_type,Correlations between engagement and retention?
+customer_type,Strategies to reduce customer churn?
+customer_type,Impact of post-sales support on retention?
+pie_chart_sales_type,Top sales by customer?
+sankey,Sales by customer type?
+sankey,Trends in customer purchases?
+pie_chart_sales_type,Sales across customer types?
+pie_chart_sales_type,Repeat customers' sales?
+brand,Loyal customers' purchases?
+brand,Sales per customer type?
+stacked_bar,Demographics and sales?
+average_sales_histogram,Satisfaction impact on sales?
+pie_chart_sales_type,Corporate versus individual sales?
+pie_chart_sales_type,Highest selling products?
+pie_chart_sales_type,Seasonal product sales?
+sales,Product category sales?
+sankey,Declining product sales?
+average_sales_histogram,Product preferences by segment?
+stacked_bar,High-profit margin products?
+stacked_bar,Popularity and location?
+stacked_bar,Sales velocity by product?
+brand,New product sales impact?
+average_sales_histogram,Customer satisfaction by product?
+map,Country-wise sales leaders?
+geoState,Regional purchase variations?
+geoCity,Sales across states?
+map,Urban versus rural sales?
+geoState,Top cities in sales?
+geoCity,Fastest-growing sales cities?
+geoState,Regional sales differences?
+geoCity,City size and sales?
+map,Factors affecting sales?
+geoState,Regional sales disparities?
+geoState,Total sales revenue?
+geoState,Sales revenue trends?
+geoState,Sales anomalies detection?
+map,Average transaction value?
+geoState,Sales versus targets?
+geoCity,Online versus offline sales?
+map,Marketing impact on sales?
+geoState,Sales cycle duration?
+geoCity,Channel-wise sales comparison?
+geoState,Average order value?
+geoCity,Repeat purchase frequency?
+map,Satisfaction and sales correlation?
+map,Churn rate influencing factors?
+geoState,Feedback and sales connection?
+geoCity,Buying frequency trends?
+map,Lifetime value of customers?
+geoState,Demographics influencing behavior?
+geoCity,Engagement and sales correlation?
+geoState,Strategies for satisfaction improvement?
+geoCity,Loyalty's impact on growth?
+map,Market share comparison?
+map,Emerging market opportunities?
+geoState,External factors affecting sales?
+geoCity,Sector-wise sales analysis?
+map,Competitive landscape overview?
+geoState,Market entry barriers?
+geoCity,Cultural impact on sales?
+geoState,Regulatory factors in sales?
+geoCity,Brand perception's role?
+map,Potential strategic partnerships?
+map,Past data predicting future?
+geoState,Factors predicting trends?
+geoCity,Prediction accuracy?
+customer_type,Leading sales indicators?
+pie_chart_sales_type,Effective forecasting models?
+average_sales_histogram,Lead time from order?
+map,Inventory impact on sales?
+average_sales_histogram,Supply chain bottlenecks?
+stacked_bar,Sales cycle reduction strategies?
+sankey,Pricing's impact on sales?
+sunburst,Online conversion rate?
+customer_type,Website traffic influence?
+pie_chart_sales_type,Cart abandonment causes?
+average_sales_histogram,User experience effect?
+map,Effective digital channels?
+average_sales_histogram,Store conversion rate?
+stacked_bar,Merchandising impact?
+sankey,Location choice significance?
+sunburst,Promotions driving sales?
+customer_type,Customer service influence?
+pie_chart_sales_type,Sales conversion per rep?
+average_sales_histogram,Training performance impact?
+map,Key performance indicators?
+average_sales_histogram,Territory-wise sales comparison?
+stacked_bar,Sales team motivation strategies?
+sankey,Customer acquisition cost?
+sunburst,Lead generation trends?
+customer_type,High-acquisition channels?
+pie_chart_sales_type,Referral program effectiveness?
+average_sales_histogram,Customer referral boosting methods?
+map,Forecast accuracy assessment?
+average_sales_histogram,Forecasting limitations review?
+stacked_bar,Market change adjustments?
+sankey,Real-time forecasting adjustments?
+sunburst,Forecasting for strategy planning?
+average_sales_histogram,Retention rate measurement?
+average_sales_histogram,Loyalty program effectiveness?
+sankey,Engagement retention correlation?
+pie_chart_sales_type,Churn reduction strategies?
+sankey,Post-sales support impact?
+sankey,Customer sales patterns?
+pie_chart_sales_type,Buying trends by type?
+pie_chart_sales_type,Customer loyalty impact?
+brand,Demographics and purchases?
+brand,Corporate clients versus individuals?
+stacked_bar,Bestselling products currently?
+average_sales_histogram,Seasonal shifts in sales?
+pie_chart_sales_type,Product category favorites?
+pie_chart_sales_type,Declining product sales?
+pie_chart_sales_type,Profitable product lines?
+stacked_bar,Popularity by location?
+stacked_bar,Fast-moving product velocity?
+sankey,New product impact?
+customer_type,Customer satisfaction by product?
+customer_type,Country-wise top sales?
+customer_type,Regional purchasing habits?
+average_sales_histogram,State-wise sales variations?
+sunburst,Urban versus rural preferences?
+customer_type,Leading sales cities?
+customer_type,High growth city sales?
+customer_type,Regional sales disparities?
+customer_type,City size versus sales?
+customer_type,Influencing factors in sales?
+pie_chart_sales_type,Total revenue this period?
+customer_type,Sales revenue trends?
+customer_type,Anomalies in sales data?
+average_sales_histogram,Average transaction value?
+sunburst,Sales versus set targets?
+sunburst,Online versus offline shares?
+customer_type,Marketing impact analysis?
+stacked_bar,Sales cycle duration?
+sankey,Channel-wise sales breakdown?
+customer_type,Average order values?
+customer_type,Customer repeat rates?
+customer_type,Satisfaction and sales ties?
+average_sales_histogram,Factors influencing churn?
+sunburst,Feedback and sales link?
+customer_type,Buying frequency trends?
+customer_type,Customer lifetime value?
+customer_type,Demographic impacts on buying?
+customer_type,Engagement and sales correlation?
+customer_type,Strategies for satisfaction boost?
+pie_chart_sales_type,Loyalty's growth effect?
+customer_type,Market share standing?
+customer_type,Emerging market potential?
+customer_type,External influences on sales?
+customer_type,Sales sector variations?
+customer_type,Competitive landscape details?
+customer_type,Entry barriers exploration?
+customer_type,Cultural impacts on sales?
+sunburst,Regulatory factors at play?
+sunburst,Brand perception's role?
+customer_type,Potential strategic fits?
+stacked_bar,Historical predictions accuracy?
+sankey,Factors guiding predictions?
+customer_type,Accuracy in sales forecasts?
+customer_type,Leading sales indicators?
+customer_type,Effective forecasting methods?
+average_sales_histogram,Order lead time?
+sunburst,Inventory impact on sales?
+customer_type,Supply chain bottlenecks?
+customer_type,Sales cycle reduction steps?
+customer_type,Pricing effects on sales?
+customer_type,Online conversion rates?
+customer_type,Website traffic insights?
+pie_chart_sales_type,Cart abandonment reasons?
+customer_type,User experience and sales?
+customer_type,Successful digital channels?
+customer_type,Store conversion rates?
+customer_type,Merchandising impacts?
+sunburst,Location choices' impact?
+sunburst,Promotion success in stores?
+customer_type,Offline service influence?
+stacked_bar,Rep-wise conversion rates?
+sankey,Training impact on performance?
+customer_type,Key performance metrics?
+customer_type,Territory sales differences?
+customer_type,Sales team motivation tips?
+average_sales_histogram,Cost per acquisition insights?
+sunburst,Lead generation trends?
+customer_type,High-acquisition channels?
+customer_type,Referral program results?
+customer_type,Boosting customer referrals?
+customer_type,Forecast accuracy checks?
+customer_type,Limitations in forecasting?
+pie_chart_sales_type,Market change adaptations?
+customer_type,Real-time forecast tweaks?
+customer_type,Forecasting for strategy?
+customer_type,Retention rate checks?
+customer_type,Loyalty program outcomes?
+pie_chart_sales_type,Engagement and retention?
+sankey,Churn reduction steps?
+sankey,Post-sales support impact?
+pie_chart_sales_type,Customer inquiry response time?
+pie_chart_sales_type,Social media impact on sales?
+brand,Product packaging size influence?
+brand,Sales revenue per representative?
+stacked_bar,Trends in customer age impact?
+average_sales_histogram,Sales performance per packaging?
+pie_chart_sales_type,Proportion of online advertising?
+pie_chart_sales_type,Customer spending patterns?
+pie_chart_sales_type,Sales among various demographics?
+sales,Customer retention strategies?
+sankey,Geographic sales distribution?
+average_sales_histogram,High-demand products?
+stacked_bar,Sales by product category?
+stacked_bar,Sales seasonality analysis?
+stacked_bar,New product launches impact?
+brand,Customer satisfaction drivers?
+average_sales_histogram,Sales forecasting accuracy?
+map,Competitive pricing strategies?
+geoState,Customer loyalty programs?
+geoCity,Market penetration strategies?
+map,Sales conversion optimization?
+geoState,Customer referral programs?
+geoCity,Sales team performance metrics?
+geoState,Sales channel effectiveness?
+geoCity,Sales promotion impact?
+map,Customer engagement tactics?
+geoState,Sales target achievement?
+geoState,Customer feedback utilization?
+geoState,Sales lead generation methods?
+geoState,Market expansion opportunities?
+map,Brand perception analysis?
+geoState,Sales incentive schemes?
+geoCity,Customer purchase journey analysis?
+map,Sales pipeline management?
+geoState,Market trend identification?
+geoCity,Sales territory optimization?
+geoState,Cross-selling opportunities?
+geoCity,Customer acquisition channels?
+map,Sales negotiation techniques?
+map,Market segmentation strategies?
+geoState,Sales force automation tools?
+geoCity,Customer churn prevention?
+map,Sales data analytics tools?
+geoState,Sales collateral effectiveness?
+geoCity,Customer lifetime value analysis?
+geoState,Sales training programs?
+geoCity,Sales commission structures?
+map,Customer retention initiatives?
+map,Sales outreach strategies?
+geoState,Market research methodologies?
+geoCity,Customer satisfaction surveys?
+map,Sales presentation techniques?
+geoState,Market share analysis?
+geoCity,Customer purchase behavior?
+geoState,Sales force productivity?
+geoCity,Market demand forecasting?
+map,Customer journey mapping?
+map,Sales incentive plans?
+geoState,Market positioning strategies?
+geoCity,Customer relationship management?
+customer_type,Sales quota setting?
+pie_chart_sales_type,Market segmentation criteria?
+average_sales_histogram,Customer feedback management?
+map,Sales performance evaluation?
+average_sales_histogram,Market penetration tactics?
+stacked_bar,Customer acquisition cost reduction?
+sankey,Sales territory allocation?
+sunburst,Market share growth strategies?
+customer_type,Customer needs assessment?
+pie_chart_sales_type,Sales conversion tracking?
+average_sales_histogram,Market expansion approaches?
+map,Customer segmentation models?
+average_sales_histogram,Sales strategy development?
+stacked_bar,Market research techniques?
+sankey,Customer relationship building?
+sunburst,Sales channel management?
+customer_type,Market trend monitoring?
+pie_chart_sales_type,Customer engagement platforms?
+average_sales_histogram,Sales lead scoring methods?
+map,Market competition analysis?
+average_sales_histogram,Customer retention metrics?
+stacked_bar,Sales forecasting methods?
+sankey,Market segmentation analysis?
+sunburst,Customer satisfaction tracking?
+customer_type,Sales promotion planning?
+pie_chart_sales_type,Market opportunity assessment?
+average_sales_histogram,Customer outreach channels?
+map,Sales performance benchmarks?
+average_sales_histogram,Market penetration analysis?
+stacked_bar,Customer acquisition strategies?
+sankey,Sales territory mapping?
+sunburst,Market trend forecasting?
+average_sales_histogram,Customer feedback collection?
+average_sales_histogram,Sales target setting?
+sankey,Market share tracking?
+pie_chart_sales_type,Customer retention tactics?
+sankey,Sales channel optimization?
+sankey,Market segmentation research?
+pie_chart_sales_type,Customer journey analysis?
+pie_chart_sales_type,Sales forecasting accuracy?
+brand,Market trend analysis?
+brand,Customer engagement strategies?
+stacked_bar,Sales performance monitoring?
+average_sales_histogram,Market opportunity identification?
+pie_chart_sales_type,Customer satisfaction improvement?
+pie_chart_sales_type,Sales conversion rate optimization?
+pie_chart_sales_type,Market share expansion strategies?
+stacked_bar,Conversion rate for online sales?
+stacked_bar,Trends in website traffic versus sales?
+sankey,Factors influencing online cart abandonment?
+customer_type,How does user experience affect online sales?
+customer_type,Digital marketing channels driving online sales?
+customer_type,Foot traffic conversion rate for stores?
+average_sales_histogram,Store layout and merchandising impact on sales?
+sunburst,Geographical considerations for store locations?
+customer_type,In-store promotions driving sales?
+customer_type,Impact of customer service on offline sales?
+customer_type,Which products have the highest sales volume?
+customer_type,Any seasonal trends in product sales?
+customer_type,Sales distribution across different product categories?
+pie_chart_sales_type,Any products with declining sales trends?
+customer_type,How do product preferences vary across customer segments?
+customer_type,Which products generate the highest profit margins?
+average_sales_histogram,Correlations between product popularity and location?
+sunburst,Average sales velocity for each product?
+sunburst,How do new products affect overall sales?
+customer_type,Which products have the highest customer satisfaction?
+stacked_bar,Which products have generated the highest sales revenue this quarter?
+sankey,Are there any seasonal trends in product sales?
+customer_type,How are sales distributed across different product categories?
+customer_type,Are there any products showing declining sales trends?
+customer_type,Do product preferences vary across different customer segments?
+average_sales_histogram,Which products have the highest profit margins?
+sunburst,Are there any correlations between product popularity and geographical location?
+customer_type,What is the average sales velocity for each product?
+customer_type,How do new product launches affect overall sales?
+customer_type,Which products have the highest customer satisfaction ratings?
+customer_type,Top-selling products analysis?
+customer_type,Seasonal product sales review?
+pie_chart_sales_type,Product category sales breakdown?
+customer_type,Declining product sales trends?
+customer_type,Product preference variations analysis?
+customer_type,High-profit margin products assessment?
+customer_type,Product popularity by location?
+customer_type,Sales velocity per product?
+customer_type,New product impact analysis?
+customer_type,Customer satisfaction by product?
+sunburst,Which products dominate sales?
+sunburst,Are there seasonal fluctuations in product sales?
+customer_type,How are product categories performing in sales?
+stacked_bar,Any products experiencing declining sales?
+sankey,Do product preferences differ by segment?
+customer_type,Which products yield high-profit margins?
+customer_type,Is there a correlation between product popularity and location?
+customer_type,What's the sales velocity for each product?
+average_sales_histogram,How do new products impact overall sales?
+sunburst,Are customers satisfied with specific products?
+customer_type,Total sales revenue for the given period?
+customer_type,How does sales revenue fluctuate over time?
+customer_type,Any noticeable patterns or anomalies in sales data?
+customer_type,Average sales volume per transaction?
+customer_type,How does sales performance compare to targets?
+pie_chart_sales_type,Proportion of sales from online channels versus offline?
+customer_type,Correlations between marketing campaigns and sales spikes?
+customer_type,Average sales cycle duration?
+customer_type,Sales revenue between different sales channels?
+customer_type,Average order value for each sales channel?
+sunburst,What is the total sales revenue for the current fiscal year?
+sunburst,How does sales revenue fluctuate over different quarters?
+customer_type,Are there any noticeable patterns or anomalies in our sales data?
+stacked_bar,What is the average transaction value across all sales?
+sankey,How does our sales performance compare to the targets set for this year?
+customer_type,What proportion of our sales revenue comes from online channels versus offline channels?
+customer_type,Are there any correlations between our marketing campaigns and sales spikes?
+customer_type,What is the average duration of our sales cycle?
+average_sales_histogram,"How does our sales revenue vary between different sales channels (e.g., direct sales, distribution)?"
+sunburst,What is the average order value for each of our sales channels?
+customer_type,Total sales revenue analysis?
+customer_type,Sales revenue fluctuation assessment?
+customer_type,Anomalies in sales data?
+customer_type,Average transaction value analysis?
+customer_type,Sales performance versus targets?
+pie_chart_sales_type,Online versus offline sales analysis?
+customer_type,Marketing impact on sales?
+customer_type,Average sales cycle duration?
+customer_type,Sales revenue by channel?
+customer_type,Average order value analysis?
+pie_chart_sales_type,What insights does total sales revenue provide?
+sankey,Are there fluctuations in sales revenue?
+sankey,Any anomalies detected in sales data?
+pie_chart_sales_type,What's the average transaction value?
+pie_chart_sales_type,How does sales performance align with targets?
+brand,What's the split between online and offline sales?
+brand,How does marketing impact sales revenue?
+stacked_bar,What's the average duration of the sales cycle?
+average_sales_histogram,Can we analyze sales revenue by channel?
+pie_chart_sales_type,What's the average order value?
+pie_chart_sales_type,Can past data predict future sales?
+pie_chart_sales_type,Factors predicting sales trends?
+sales,Accuracy of sales predictions?
+sankey,Leading indicators for sales changes?
+average_sales_histogram,Effective forecasting models?
+stacked_bar,Average lead time from order to delivery?
+stacked_bar,Inventory management impact on sales?
+stacked_bar,Supply chain bottlenecks affecting fulfillment?
+brand,Strategies to reduce sales cycle times?
+average_sales_histogram,How does pricing strategy affect sales?
+map,Average sales conversion rate per representative?
+geoState,Correlations between training and performance?
+geoCity,Key performance indicators for sales teams?
+map,Sales performance differences between territories?
+geoState,Strategies to motivate sales teams?
+geoCity,Cost per acquisition for new customers?
+geoState,Trends in lead generation effectiveness?
+geoCity,Marketing channels with highest acquisition rates?
+map,Impact of referral programs on acquisition costs?
+geoState,Strategies to increase customer referrals?
+geoState,What's the average sales conversion rate?
+geoState,Are training efforts impacting performance?
+geoState,Which KPIs are crucial for sales teams?
+map,Do sales performance differ across territories?
+geoState,How can we motivate sales teams effectively?
+geoCity,What's the cost per acquisition for new customers?
+map,Are our lead generation efforts effective?
+geoState,Which channels yield the highest acquisition rates?
+geoCity,How do referral programs impact acquisition costs?
+geoState,Can we boost customer referrals effectively?

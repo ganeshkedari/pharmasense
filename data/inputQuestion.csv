@@ -1,0 +1,33 @@
+chartID,questions
+sankey,Check account balance.
+brand,Account history overview.
+brand,Info on Account Z.
+bubble,Manage accounts overview.
+geoCity,Account balance inquiry.
+sunburst,Overview of account history.
+geoState,Details about Account C.
+customer_type,New product launches?
+pie_chart_sales_type,Explain billing process.
+sales,Explore Product A details.
+average_sales_histogram,Features of Product B?
+sales,Latest product launches info.
+average_sales_histogram,Sales revenue last quarter?
+geoState,Total sales this year?
+bubble,Current product sales?
+sunburst,Sales offices by state.
+geoCity,Sales performance in 2023?
+map,Identify top sales states.
+brand,Highest sales state analysis.
+geoCity,Last quarter's sales revenue?
+sankey,Yearly total sales figures?
+geoState,Current sales status.
+map,Sales office locations by state.
+geoCity,Sales performance in 2022.
+average_sales_histogram,Best-selling products list.
+bubble,Analyze monthly sales trends.
+geoState,Upgrade subscription.
+sankey,Upgrade product subscription.
+map,Lowest sales states?
+map,Lowest performing sales states?
+customer_type,Market conditions status.
+pie_chart_sales_type,sales by sales type

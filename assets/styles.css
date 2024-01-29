@@ -1,0 +1,8 @@
+#pharma-sense-header {
+    background-image: url('/assets/background_image.png');  /* Replace with the path to your background image */
+    background-size: 600px 200px;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: white;  /* Adjust text color for visibility */
+    height: 200px;  /* Set the height to match the background image height */
+}
